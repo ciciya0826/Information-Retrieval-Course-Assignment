@@ -1,0 +1,4192 @@
+[
+    {
+        "id": 1,
+        "title": "肖申克的救赎",
+        "rating": "9.7",
+        "director": "弗兰克·德拉邦特 Frank Darabont",
+        "actor": "蒂姆·罗宾斯 Tim Robbins /...",
+        "year": "1994",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "犯罪"
+        ],
+        "raw_title": "肖申克的救赎/TheShawshankRedemption/月黑高飞(港)/刺激1995(台)"
+    },
+    {
+        "id": 2,
+        "title": "霸王别姬",
+        "rating": "9.6",
+        "director": "陈凯歌 Kaige Chen",
+        "actor": "张国荣 Leslie Cheung",
+        "year": "1993",
+        "country": [
+            "中国大陆中国香港"
+        ],
+        "genre": [
+            "剧情",
+            "爱情"
+        ],
+        "raw_title": "霸王别姬/再见，我的妾/FarewellMyConcubine"
+    },
+    {
+        "id": 3,
+        "title": "阿甘正传",
+        "rating": "9.5",
+        "director": "罗伯特·泽米吉斯 Robert Zemeckis",
+        "actor": "汤姆·汉克斯 Tom Hanks",
+        "year": "1994",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "爱情"
+        ],
+        "raw_title": "阿甘正传/ForrestGump/福雷斯特·冈普"
+    },
+    {
+        "id": 4,
+        "title": "泰坦尼克号",
+        "rating": "9.5",
+        "director": "詹姆斯·卡梅隆 James Cameron",
+        "actor": "莱昂纳多·迪卡普里奥 Leonardo...",
+        "year": "1997",
+        "country": [
+            "美国墨西哥"
+        ],
+        "genre": [
+            "剧情",
+            "爱情",
+            "灾难"
+        ],
+        "raw_title": "泰坦尼克号/Titanic/铁达尼号(港/台)"
+    },
+    {
+        "id": 5,
+        "title": "千与千寻",
+        "rating": "9.4",
+        "director": "宫崎骏 Hayao Miyazaki",
+        "actor": "柊瑠美 Rumi Hîragi",
+        "year": "2001",
+        "country": [
+            "日本"
+        ],
+        "genre": [
+            "剧情",
+            "奇幻",
+            "动画"
+        ],
+        "raw_title": "千与千寻/千と千尋の神隠し/神隐少女(台)/千与千寻的神隐"
+    },
+    {
+        "id": 6,
+        "title": "这个杀手不太冷",
+        "rating": "9.4",
+        "director": "吕克·贝松 Luc Besson",
+        "actor": "让·雷诺 Jean Reno",
+        "year": "1994",
+        "country": [
+            "法国美国"
+        ],
+        "genre": [
+            "剧情",
+            "动作",
+            "犯罪"
+        ],
+        "raw_title": "这个杀手不太冷/Léon/终极追杀令(台)/杀手莱昂"
+    },
+    {
+        "id": 7,
+        "title": "美丽人生",
+        "rating": "9.5",
+        "director": "罗伯托·贝尼尼 Roberto Benigni",
+        "actor": "罗伯托·贝尼尼 Roberto Beni...",
+        "year": "1997",
+        "country": [
+            "意大利"
+        ],
+        "genre": [
+            "剧情",
+            "喜剧",
+            "爱情",
+            "战争"
+        ],
+        "raw_title": "美丽人生/Lavitaèbella/一个快乐的传说(港)/LifeIsBeautiful"
+    },
+    {
+        "id": 8,
+        "title": "星际穿越",
+        "rating": "9.4",
+        "director": "克里斯托弗·诺兰 Christopher Nolan",
+        "actor": "马修·麦康纳 Matthew Mc...",
+        "year": "2014",
+        "country": [
+            "美国英国加拿大"
+        ],
+        "genre": [
+            "剧情",
+            "科幻",
+            "冒险"
+        ],
+        "raw_title": "星际穿越/Interstellar/星际启示录(港)/星际效应(台)"
+    },
+    {
+        "id": 9,
+        "title": "盗梦空间",
+        "rating": "9.4",
+        "director": "克里斯托弗·诺兰 Christopher Nolan",
+        "actor": "莱昂纳多·迪卡普里奥 Le...",
+        "year": "2010",
+        "country": [
+            "美国英国"
+        ],
+        "genre": [
+            "剧情",
+            "科幻",
+            "悬疑",
+            "冒险"
+        ],
+        "raw_title": "盗梦空间/Inception/潜行凶间(港)/全面启动(台)"
+    },
+    {
+        "id": 10,
+        "title": "楚门的世界",
+        "rating": "9.4",
+        "director": "彼得·威尔 Peter Weir",
+        "actor": "金·凯瑞 Jim Carrey",
+        "year": "1998",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "科幻"
+        ],
+        "raw_title": "楚门的世界/TheTrumanShow/真人Show(港)/真人戏"
+    },
+    {
+        "id": 11,
+        "title": "辛德勒的名单",
+        "rating": "9.5",
+        "director": "史蒂文·斯皮尔伯格 Steven Spielberg",
+        "actor": "连姆·尼森 Liam Neeson...",
+        "year": "1993",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "历史",
+            "战争"
+        ],
+        "raw_title": "辛德勒的名单/Schindler'sList/舒特拉的名单(港)/辛德勒名单"
+    },
+    {
+        "id": 12,
+        "title": "忠犬八公的故事",
+        "rating": "9.4",
+        "director": "莱塞·霍尔斯道姆 Lasse Hallström",
+        "actor": "理查·基尔 Richard Ger...",
+        "year": "2009",
+        "country": [
+            "美国英国"
+        ],
+        "genre": [
+            "剧情"
+        ],
+        "raw_title": "忠犬八公的故事/Hachi:ADog'sTale/秋田犬八千(港)/忠犬小八(台)"
+    },
+    {
+        "id": 13,
+        "title": "海上钢琴师",
+        "rating": "9.3",
+        "director": "朱塞佩·托纳多雷 Giuseppe Tornatore",
+        "actor": "蒂姆·罗斯 Tim Roth",
+        "year": "1998",
+        "country": [
+            "意大利"
+        ],
+        "genre": [
+            "剧情",
+            "音乐"
+        ],
+        "raw_title": "海上钢琴师/Laleggendadelpianistasull'oceano/声光伴我飞(港)/一九零零的传奇"
+    },
+    {
+        "id": 14,
+        "title": "三傻大闹宝莱坞",
+        "rating": "9.2",
+        "director": "拉库马·希拉尼 Rajkumar Hirani",
+        "actor": "阿米尔·汗 Aamir Khan",
+        "year": "2009",
+        "country": [
+            "印度"
+        ],
+        "genre": [
+            "剧情",
+            "喜剧",
+            "爱情",
+            "歌舞"
+        ],
+        "raw_title": "三傻大闹宝莱坞/3Idiots/三个傻瓜(台)/作死不离3兄弟(港)"
+    },
+    {
+        "id": 15,
+        "title": "放牛班的春天",
+        "rating": "9.3",
+        "director": "克里斯托夫·巴拉蒂 Christophe Barratier",
+        "actor": "让-巴蒂斯特·莫尼...",
+        "year": "2004",
+        "country": [
+            "法国瑞士德国"
+        ],
+        "genre": [
+            "剧情",
+            "音乐"
+        ],
+        "raw_title": "放牛班的春天/Leschoristes/歌声伴我心(港)/唱诗班男孩"
+    },
+    {
+        "id": 16,
+        "title": "机器人总动员",
+        "rating": "9.3",
+        "director": "安德鲁·斯坦顿 Andrew Stanton",
+        "actor": "本·贝尔特 Ben Burtt",
+        "year": "2008",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "科幻",
+            "冒险",
+            "动画"
+        ],
+        "raw_title": "机器人总动员/WALL·E/太空奇兵·威E(港)/瓦力(台)"
+    },
+    {
+        "id": 17,
+        "title": "疯狂动物城",
+        "rating": "9.2",
+        "director": "拜伦·霍华德 Byron Howard",
+        "actor": "金妮弗·...",
+        "year": "2016",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "喜剧",
+            "冒险",
+            "动画"
+        ],
+        "raw_title": "疯狂动物城/Zootopia/优兽大都会(港)/动物方城市(台)"
+    },
+    {
+        "id": 18,
+        "title": "无间道",
+        "rating": "9.3",
+        "director": "刘伟强",
+        "actor": "刘德华 Andy Lau",
+        "year": "2002",
+        "country": [
+            "中国香港"
+        ],
+        "genre": [
+            "剧情",
+            "惊悚",
+            "犯罪"
+        ],
+        "raw_title": "无间道/無間道/InfernalAffairs/Mougaandou"
+    },
+    {
+        "id": 19,
+        "title": "控方证人",
+        "rating": "9.6",
+        "director": "比利·怀尔德 Billy Wilder",
+        "actor": "泰隆·鲍华 Tyrone Power",
+        "year": "1957",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "悬疑",
+            "惊悚",
+            "犯罪"
+        ],
+        "raw_title": "控方证人/WitnessfortheProsecution/雄才伟略/情妇"
+    },
+    {
+        "id": 20,
+        "title": "大话西游之大圣娶亲",
+        "rating": "9.2",
+        "director": "刘镇伟 Jeffrey Lau",
+        "actor": "周星驰 Stephen Chow",
+        "year": "1995",
+        "country": [
+            "中国香港中国大陆"
+        ],
+        "genre": [
+            "喜剧",
+            "爱情",
+            "奇幻",
+            "古装"
+        ],
+        "raw_title": "大话西游之大圣娶亲/西遊記大結局之仙履奇緣/西游记完结篇仙履奇缘/齐天大圣西游记"
+    },
+    {
+        "id": 21,
+        "title": "熔炉",
+        "rating": "9.3",
+        "director": "黄东赫 Dong-hyuk Hwang",
+        "actor": "孔侑 Yoo Gong",
+        "year": "2011",
+        "country": [
+            "韩国"
+        ],
+        "genre": [
+            "剧情"
+        ],
+        "raw_title": "熔炉/도가니/无声呐喊(港)/漩涡"
+    },
+    {
+        "id": 22,
+        "title": "教父",
+        "rating": "9.3",
+        "director": "弗朗西斯·福特·科波拉 Francis Ford Coppola",
+        "actor": "马龙·白兰度 M...",
+        "year": "1972",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "犯罪"
+        ],
+        "raw_title": "教父/TheGodfather/MarioPuzo'sTheGodfather"
+    },
+    {
+        "id": 23,
+        "title": "触不可及",
+        "rating": "9.3",
+        "director": "奥利维·那卡什 Olivier Nakache",
+        "actor": "主...",
+        "year": "2011",
+        "country": [
+            "法国"
+        ],
+        "genre": [
+            "剧情",
+            "喜剧"
+        ],
+        "raw_title": "触不可及/Intouchables/闪亮人生(港)/逆转人生(台)"
+    },
+    {
+        "id": 24,
+        "title": "当幸福来敲门",
+        "rating": "9.2",
+        "director": "加布里尔·穆奇诺 Gabriele Muccino",
+        "actor": "威尔·史密斯 Will Smith ...",
+        "year": "2006",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "传记",
+            "家庭"
+        ],
+        "raw_title": "当幸福来敲门/ThePursuitofHappyness/寻找快乐的故事(港)/追求快乐"
+    },
+    {
+        "id": 25,
+        "title": "寻梦环游记",
+        "rating": "9.1",
+        "director": "李·昂克里奇 Lee Unkrich",
+        "actor": "...",
+        "year": "2017",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "喜剧",
+            "奇幻",
+            "动画",
+            "音乐"
+        ],
+        "raw_title": "寻梦环游记/Coco/玩转极乐园(港)/可可夜总会(台)"
+    },
+    {
+        "id": 26,
+        "title": "末代皇帝",
+        "rating": "9.3",
+        "director": "贝纳尔多·贝托鲁奇 Bernardo Bertolucci",
+        "actor": "尊龙 John Lone",
+        "year": "1987",
+        "country": [
+            "英国意大利中国大陆法国"
+        ],
+        "genre": [
+            "剧情",
+            "历史",
+            "传记"
+        ],
+        "raw_title": "末代皇帝/TheLastEmperor/末代皇帝溥仪(港)/L'ultimoimperatore"
+    },
+    {
+        "id": 27,
+        "title": "龙猫",
+        "rating": "9.2",
+        "director": "宫崎骏 Hayao Miyazaki",
+        "actor": "日高法子 Noriko Hidaka",
+        "year": "1988",
+        "country": [
+            "日本"
+        ],
+        "genre": [
+            "冒险",
+            "奇幻",
+            "动画"
+        ],
+        "raw_title": "龙猫/となりのトトロ/邻居托托罗/邻家的豆豆龙"
+    },
+    {
+        "id": 28,
+        "title": "怦然心动",
+        "rating": "9.1",
+        "director": "罗伯·莱纳 Rob Reiner",
+        "actor": "玛德琳·卡罗尔 Madeline Carroll",
+        "year": "2010",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "喜剧",
+            "爱情"
+        ],
+        "raw_title": "怦然心动/Flipped/萌动青春/青春萌动"
+    },
+    {
+        "id": 29,
+        "title": "哈利·波特与魔法石",
+        "rating": "9.2",
+        "director": "Chris Columbus",
+        "actor": "Daniel Radcliffe",
+        "year": "2001",
+        "country": [
+            "美国英国"
+        ],
+        "genre": [
+            "冒险",
+            "奇幻"
+        ],
+        "raw_title": "哈利·波特与魔法石/HarryPotterandtheSorcerer'sStone/哈利波特1：神秘的魔法石(港/台)"
+    },
+    {
+        "id": 30,
+        "title": "活着",
+        "rating": "9.3",
+        "director": "张艺谋 Yimou Zhang",
+        "actor": "葛优 You Ge",
+        "year": "1994",
+        "country": [
+            "中国大陆中国香港"
+        ],
+        "genre": [
+            "剧情",
+            "历史",
+            "家庭"
+        ],
+        "raw_title": "活着/人生/Lifetimes"
+    },
+    {
+        "id": 31,
+        "title": "蝙蝠侠：黑暗骑士",
+        "rating": "9.2",
+        "director": "克里斯托弗·诺兰 Christopher Nolan",
+        "actor": "克里斯蒂安·贝尔 Christ...",
+        "year": "2008",
+        "country": [
+            "美国英国"
+        ],
+        "genre": [
+            "剧情",
+            "动作",
+            "科幻",
+            "惊悚",
+            "犯罪"
+        ],
+        "raw_title": "蝙蝠侠：黑暗骑士/TheDarkKnight/蝙蝠侠前传2：黑暗骑士/黑暗骑士(台)"
+    },
+    {
+        "id": 32,
+        "title": "指环王3：王者无敌",
+        "rating": "9.3",
+        "director": "彼得·杰克逊 Peter Jackson",
+        "actor": "伊利亚·伍德 Elijah Wood",
+        "year": "2003",
+        "country": [
+            "美国新西兰"
+        ],
+        "genre": [
+            "剧情",
+            "动作",
+            "冒险",
+            "奇幻"
+        ],
+        "raw_title": "指环王3：王者无敌/TheLordoftheRings:TheReturnoftheKing/魔戒三部曲：王者再临(台/港)"
+    },
+    {
+        "id": 33,
+        "title": "我不是药神",
+        "rating": "9.0",
+        "director": "文牧野 Muye Wen",
+        "actor": "徐峥 Zheng Xu",
+        "year": "2018",
+        "country": [
+            "中国大陆"
+        ],
+        "genre": [
+            "剧情",
+            "喜剧"
+        ],
+        "raw_title": "我不是药神/中国药神/印度药神"
+    },
+    {
+        "id": 34,
+        "title": "乱世佳人",
+        "rating": "9.3",
+        "director": "维克多·弗莱明 Victor Fleming",
+        "actor": "费...",
+        "year": "1939",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "爱情",
+            "历史",
+            "战争"
+        ],
+        "raw_title": "乱世佳人/GonewiththeWind/飘"
+    },
+    {
+        "id": 35,
+        "title": "飞屋环游记",
+        "rating": "9.1",
+        "director": "彼特·道格特 Pete Docter",
+        "actor": "爱德...",
+        "year": "2009",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "喜剧",
+            "冒险",
+            "动画"
+        ],
+        "raw_title": "飞屋环游记/Up/冲天救兵(港)/天外奇迹(台)"
+    },
+    {
+        "id": 36,
+        "title": "素媛",
+        "rating": "9.3",
+        "director": "李濬益 Jun-ik Lee",
+        "actor": "薛景求 Kyung-gu Sol",
+        "year": "2013",
+        "country": [
+            "韩国"
+        ],
+        "genre": [
+            "剧情"
+        ],
+        "raw_title": "素媛/소원/许愿/希望：为爱重生(台)"
+    },
+    {
+        "id": 37,
+        "title": "哈尔的移动城堡",
+        "rating": "9.1",
+        "director": "宫崎骏 Hayao Miyazaki",
+        "actor": "倍赏千惠子 Chieko Baishô",
+        "year": "2004",
+        "country": [
+            "日本"
+        ],
+        "genre": [
+            "爱情",
+            "冒险",
+            "奇幻",
+            "动画"
+        ],
+        "raw_title": "哈尔的移动城堡/ハウルの動く城/哈尔移动城堡(港)/霍尔的移动城堡(台)"
+    },
+    {
+        "id": 38,
+        "title": "十二怒汉",
+        "rating": "9.4",
+        "director": "Sidney Lumet",
+        "actor": "亨利·方达 Henry Fonda",
+        "year": "1957",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情"
+        ],
+        "raw_title": "十二怒汉/12AngryMen/12怒汉/十二怒汉"
+    },
+    {
+        "id": 39,
+        "title": "让子弹飞",
+        "rating": "9.0",
+        "director": "姜文 Wen Jiang",
+        "actor": "姜文 Wen Jiang",
+        "year": "2010",
+        "country": [
+            "中国大陆中国香港"
+        ],
+        "genre": [
+            "剧情",
+            "喜剧",
+            "动作",
+            "西部"
+        ],
+        "raw_title": "让子弹飞/让子弹飞一会儿/火烧云"
+    },
+    {
+        "id": 40,
+        "title": "何以为家",
+        "rating": "9.1",
+        "director": "娜丁·拉巴基 Nadine Labaki",
+        "actor": "扎因·拉费阿 Zain al-Rafeea",
+        "year": "2018",
+        "country": [
+            "黎巴嫩美国法国塞浦路斯卡塔尔英国"
+        ],
+        "genre": [
+            "剧情"
+        ],
+        "raw_title": "何以为家/كفرناحوم/迦百农/星仔打官司(港)"
+    },
+    {
+        "id": 41,
+        "title": "海蒂和爷爷",
+        "rating": "9.3",
+        "director": "阿兰·葛斯彭纳 Alain Gsponer",
+        "actor": "阿努克·斯特芬 Anuk Steffen /...",
+        "year": "2015",
+        "country": [
+            "德国瑞士"
+        ],
+        "genre": [
+            "剧情",
+            "冒险",
+            "家庭"
+        ],
+        "raw_title": "海蒂和爷爷/Heidi/飘零燕(港)/海蒂"
+    },
+    {
+        "id": 42,
+        "title": "猫鼠游戏",
+        "rating": "9.1",
+        "director": "史蒂文·斯皮尔伯格 Steven Spielberg",
+        "actor": "莱昂纳多·迪卡普里奥 L...",
+        "year": "2002",
+        "country": [
+            "美国加拿大"
+        ],
+        "genre": [
+            "剧情",
+            "犯罪",
+            "传记"
+        ],
+        "raw_title": "猫鼠游戏/CatchMeIfYouCan/逍遥法外/捉智双雄(港)"
+    },
+    {
+        "id": 43,
+        "title": "摔跤吧！爸爸",
+        "rating": "9.0",
+        "director": "涅提·蒂瓦里 Nitesh Tiwari",
+        "actor": "阿米尔·汗 Aamir Khan",
+        "year": "2016",
+        "country": [
+            "印度"
+        ],
+        "genre": [
+            "剧情",
+            "运动",
+            "传记",
+            "家庭"
+        ],
+        "raw_title": "摔跤吧！爸爸/Dangal/我和我的冠军女儿(台)/打死不离3父女(港)"
+    },
+    {
+        "id": 44,
+        "title": "天空之城",
+        "rating": "9.2",
+        "director": "宫崎骏 Hayao Miyazaki",
+        "actor": "田中真弓 Mayumi Tanaka",
+        "year": "1986",
+        "country": [
+            "日本"
+        ],
+        "genre": [
+            "冒险",
+            "奇幻",
+            "动画"
+        ],
+        "raw_title": "天空之城/天空の城ラピュタ/天空之城拉普他/空中城堡拉普他"
+    },
+    {
+        "id": 45,
+        "title": "鬼子来了",
+        "rating": "9.3",
+        "director": "姜文 Wen Jiang",
+        "actor": "姜文 Wen Jiang",
+        "year": "2000",
+        "country": [
+            "中国大陆"
+        ],
+        "genre": [
+            "剧情",
+            "喜剧"
+        ],
+        "raw_title": "鬼子来了/DevilsontheDoorstep"
+    },
+    {
+        "id": 46,
+        "title": "少年派的奇幻漂流",
+        "rating": "9.1",
+        "director": "李安 Ang Lee",
+        "actor": "苏拉·沙玛 Suraj Sharma",
+        "year": "2012",
+        "country": [
+            "美国中国台湾英国加拿大"
+        ],
+        "genre": [
+            "剧情",
+            "冒险",
+            "奇幻"
+        ],
+        "raw_title": "少年派的奇幻漂流/LifeofPi/少年Pi的奇幻漂流/漂流少年Pi"
+    },
+    {
+        "id": 47,
+        "title": "钢琴家",
+        "rating": "9.3",
+        "director": "罗曼·波兰斯基 Roman Polanski",
+        "actor": "艾德里安·布洛迪 Adrien Brod...",
+        "year": "2002",
+        "country": [
+            "英国法国波兰德国美国"
+        ],
+        "genre": [
+            "剧情",
+            "传记",
+            "音乐",
+            "战争"
+        ],
+        "raw_title": "钢琴家/ThePianist/钢琴战曲(港)/战地琴人(台)"
+    },
+    {
+        "id": 48,
+        "title": "指环王2：双塔奇兵",
+        "rating": "9.2",
+        "director": "彼得·杰克逊 Peter Jackson",
+        "actor": "伊利亚·伍德 Elijah Wood",
+        "year": "2002",
+        "country": [
+            "美国新西兰"
+        ],
+        "genre": [
+            "剧情",
+            "动作",
+            "冒险",
+            "奇幻"
+        ],
+        "raw_title": "指环王2：双塔奇兵/TheLordoftheRings:TheTwoTowers/魔戒二部曲：双城奇谋/指环王II：双塔"
+    },
+    {
+        "id": 49,
+        "title": "大话西游之月光宝盒",
+        "rating": "9.0",
+        "director": "刘镇伟 Jeffrey Lau",
+        "actor": "周星驰 Stephen Chow",
+        "year": "1995",
+        "country": [
+            "中国香港中国大陆"
+        ],
+        "genre": [
+            "喜剧",
+            "爱情",
+            "奇幻",
+            "古装"
+        ],
+        "raw_title": "大话西游之月光宝盒/西遊記第壹佰零壹回之月光寶盒/西游记101回月光宝盒/齐天大圣东游记"
+    },
+    {
+        "id": 50,
+        "title": "闻香识女人",
+        "rating": "9.1",
+        "director": "马丁·布莱斯 Martin Brest",
+        "actor": "阿尔·帕西诺 Al Pacino",
+        "year": "1992",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情"
+        ],
+        "raw_title": "闻香识女人/ScentofaWoman/女人香/女人的芳香"
+    },
+    {
+        "id": 51,
+        "title": "死亡诗社",
+        "rating": "9.2",
+        "director": "彼得·威尔 Peter Weir",
+        "actor": "罗宾·威廉姆斯 Robin Williams",
+        "year": "1989",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情"
+        ],
+        "raw_title": "死亡诗社/DeadPoetsSociety/暴雨骄阳(港)/春风化雨(台)"
+    },
+    {
+        "id": 52,
+        "title": "绿皮书",
+        "rating": "8.9",
+        "director": "彼得·法雷里 Peter Farrelly",
+        "actor": "维果·莫腾森 Viggo Mortensen /...",
+        "year": "2018",
+        "country": [
+            "美国中国大陆"
+        ],
+        "genre": [
+            "剧情",
+            "喜剧",
+            "传记",
+            "音乐"
+        ],
+        "raw_title": "绿皮书/GreenBook/绿簿旅友(港)/幸福绿皮书(台)"
+    },
+    {
+        "id": 53,
+        "title": "大闹天宫",
+        "rating": "9.4",
+        "director": "万籁鸣 Laiming Wan",
+        "actor": "邱岳峰 Yuefeng Qiu",
+        "year": "2018",
+        "country": [
+            "美国中国大陆"
+        ],
+        "genre": [
+            "剧情",
+            "喜剧",
+            "传记",
+            "音乐"
+        ],
+        "raw_title": "大闹天宫/大闹天宫上下集/TheMonkeyKing"
+    },
+    {
+        "id": 54,
+        "title": "罗马假日",
+        "rating": "9.1",
+        "director": "威廉·惠勒 William Wyler",
+        "actor": "奥黛丽·赫本 Audrey Hepburn",
+        "year": "1953",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "喜剧",
+            "爱情"
+        ],
+        "raw_title": "罗马假日/RomanHoliday/金枝玉叶(港)/罗马假期(台)"
+    },
+    {
+        "id": 55,
+        "title": "黑客帝国",
+        "rating": "9.1",
+        "director": "安迪·沃卓斯基 Andy Wachowski",
+        "actor": "主...",
+        "year": "1999",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "动作",
+            "科幻"
+        ],
+        "raw_title": "黑客帝国/TheMatrix/22世纪杀人网络(港)/廿二世纪杀人网络(港)"
+    },
+    {
+        "id": 56,
+        "title": "指环王1：护戒使者",
+        "rating": "9.1",
+        "director": "彼得·杰克逊 Peter Jackson",
+        "actor": "伊利亚·伍德 Elijah Wood",
+        "year": "2001",
+        "country": [
+            "新西兰美国"
+        ],
+        "genre": [
+            "剧情",
+            "动作",
+            "冒险",
+            "奇幻"
+        ],
+        "raw_title": "指环王1：护戒使者/TheLordoftheRings:TheFellowshipoftheRing/指环王1：魔戒再现/指环王I：护戒使者"
+    },
+    {
+        "id": 57,
+        "title": "天堂电影院",
+        "rating": "9.2",
+        "director": "朱塞佩·托纳多雷 Giuseppe Tornatore",
+        "actor": "菲利普·努瓦雷 Philipp...",
+        "year": "1988",
+        "country": [
+            "意大利法国"
+        ],
+        "genre": [
+            "剧情",
+            "爱情"
+        ],
+        "raw_title": "天堂电影院/NuovoCinemaParadiso/星光伴我心(港)/新天堂乐园(台)"
+    },
+    {
+        "id": 58,
+        "title": "教父2",
+        "rating": "9.3",
+        "director": "弗朗西斯·福特·科波拉 Francis Ford Coppola",
+        "actor": "阿尔·帕西诺 A...",
+        "year": "1974",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "犯罪"
+        ],
+        "raw_title": "教父2/TheGodfather:PartII/教父续集(港)/教父II"
+    },
+    {
+        "id": 59,
+        "title": "狮子王",
+        "rating": "9.1",
+        "director": "Roger Allers",
+        "actor": "乔纳森·泰勒·托马...",
+        "year": "1994",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "冒险",
+            "动画",
+            "歌舞"
+        ],
+        "raw_title": "狮子王/TheLionKing/狮子王3D"
+    },
+    {
+        "id": 60,
+        "title": "辩护人",
+        "rating": "9.2",
+        "director": "杨宇硕 Woo-seok Yang",
+        "actor": "宋康昊 Kang-ho Song",
+        "year": "2013",
+        "country": [
+            "韩国"
+        ],
+        "genre": [
+            "剧情"
+        ],
+        "raw_title": "辩护人/변호인/逆权大状(港)/正义辩护人(台)"
+    },
+    {
+        "id": 61,
+        "title": "饮食男女",
+        "rating": "9.2",
+        "director": "李安 Ang Lee",
+        "actor": "郎雄 Sihung Lung",
+        "year": "1994",
+        "country": [
+            "中国台湾美国"
+        ],
+        "genre": [
+            "剧情",
+            "家庭"
+        ],
+        "raw_title": "饮食男女/飲食男女/EatDrinkManWoman"
+    },
+    {
+        "id": 62,
+        "title": "搏击俱乐部",
+        "rating": "9.0",
+        "director": "大卫·芬奇 David Fincher",
+        "actor": "爱德华·诺顿 Edward Norton",
+        "year": "1999",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "动作",
+            "悬疑",
+            "惊悚"
+        ],
+        "raw_title": "搏击俱乐部/FightClub/搏击会(港)/斗阵俱乐部(台)"
+    },
+    {
+        "id": 63,
+        "title": "本杰明·巴顿奇事",
+        "rating": "9.0",
+        "director": "大卫·芬奇 David Fincher",
+        "actor": "凯特·布兰切特 Cate Blanchett",
+        "year": "2008",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "爱情",
+            "奇幻"
+        ],
+        "raw_title": "本杰明·巴顿奇事/TheCuriousCaseofBenjaminButton/奇幻逆缘(港)/班杰明的奇幻旅程(台)"
+    },
+    {
+        "id": 64,
+        "title": "美丽心灵",
+        "rating": "9.1",
+        "director": "朗·霍华德 Ron Howard",
+        "actor": "罗素·克劳 Russell Crowe",
+        "year": "2001",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "传记"
+        ],
+        "raw_title": "美丽心灵/ABeautifulMind/有你终生美丽(港)/美丽境界(台)"
+    },
+    {
+        "id": 65,
+        "title": "穿条纹睡衣的男孩",
+        "rating": "9.2",
+        "director": "马克·赫尔曼 Mark Herman",
+        "actor": "阿萨·巴特菲尔德 Asa Butterfield ...",
+        "year": "2008",
+        "country": [
+            "英国美国"
+        ],
+        "genre": [
+            "剧情",
+            "战争"
+        ],
+        "raw_title": "穿条纹睡衣的男孩/TheBoyintheStripedPajamas/穿条纹衣服的男孩/穿条纹衣的男孩"
+    },
+    {
+        "id": 66,
+        "title": "窃听风暴",
+        "rating": "9.2",
+        "director": "弗洛里安·亨克尔·冯·多纳斯马尔克 Florian Henckel von Donnersmarck  &n...",
+        "actor": NaN,
+        "year": "2006",
+        "country": [
+            "德国"
+        ],
+        "genre": [
+            "剧情",
+            "悬疑"
+        ],
+        "raw_title": "窃听风暴/DasLebenderAnderen/窃听者(港)/他人的生活"
+    },
+    {
+        "id": 67,
+        "title": "情书",
+        "rating": "8.9",
+        "director": "岩井俊二 Shunji Iwai",
+        "actor": "中山美穗 Miho Nakayama",
+        "year": "1995",
+        "country": [
+            "日本"
+        ],
+        "genre": [
+            "剧情",
+            "爱情"
+        ],
+        "raw_title": "情书/LoveLetter/WhenICloseMyEyes/LettersofLove"
+    },
+    {
+        "id": 68,
+        "title": "两杆大烟枪",
+        "rating": "9.1",
+        "director": "盖·里奇 Guy Ritchie",
+        "actor": "杰森·弗莱明 Jason Flemyng",
+        "year": "1998",
+        "country": [
+            "英国"
+        ],
+        "genre": [
+            "剧情",
+            "喜剧",
+            "犯罪"
+        ],
+        "raw_title": "两杆大烟枪/Lock,StockandTwoSmokingBarrels/够姜四小强(港)/两根枪管(台)"
+    },
+    {
+        "id": 69,
+        "title": "音乐之声",
+        "rating": "9.1",
+        "director": "罗伯特·怀斯 Robert Wise",
+        "actor": "朱莉·安德鲁斯 Julie Andrews",
+        "year": "1965",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "爱情",
+            "歌舞",
+            "传记"
+        ],
+        "raw_title": "音乐之声/TheSoundofMusic/仙乐飘飘处处闻(港)/真善美(台)"
+    },
+    {
+        "id": 70,
+        "title": "西西里的美丽传说",
+        "rating": "8.9",
+        "director": "朱塞佩·托纳多雷 Giuseppe Tornatore",
+        "actor": "莫妮卡·贝鲁奇 Monica ...",
+        "year": "2000",
+        "country": [
+            "意大利美国"
+        ],
+        "genre": [
+            "剧情",
+            "情色",
+            "战争"
+        ],
+        "raw_title": "西西里的美丽传说/Malèna/真爱伴我行(台)/玛莲娜"
+    },
+    {
+        "id": 71,
+        "title": "看不见的客人",
+        "rating": "8.8",
+        "director": "奥里奥尔·保罗 Oriol Paulo",
+        "actor": "马里奥·卡萨斯 Mario Casas",
+        "year": "2016",
+        "country": [
+            "西班牙"
+        ],
+        "genre": [
+            "剧情",
+            "悬疑",
+            "惊悚",
+            "犯罪"
+        ],
+        "raw_title": "看不见的客人/Contratiempo/死无对证(港)/布局(台)"
+    },
+    {
+        "id": 72,
+        "title": "哈利·波特与死亡圣器(下)",
+        "rating": "9.0",
+        "director": "大卫·叶茨 David Yates",
+        "actor": "丹尼尔·雷德克里夫 Daniel Radcliffe...",
+        "year": "2011",
+        "country": [
+            "美国英国"
+        ],
+        "genre": [
+            "冒险",
+            "奇幻"
+        ],
+        "raw_title": "哈利·波特与死亡圣器(下)/HarryPotterandtheDeathlyHallows:Part2/哈利波特7：死神的圣物2(港/台)"
+    },
+    {
+        "id": 73,
+        "title": "阿凡达",
+        "rating": "8.8",
+        "director": "詹姆斯·卡梅隆 James Cameron",
+        "actor": "萨姆·沃辛顿 Sam Worthington ...",
+        "year": "2009",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "动作",
+            "科幻",
+            "冒险"
+        ],
+        "raw_title": "阿凡达/Avatar/"
+    },
+    {
+        "id": 74,
+        "title": "拯救大兵瑞恩",
+        "rating": "9.1",
+        "director": "史蒂文·斯皮尔伯格 Steven Spielberg",
+        "actor": "汤姆·汉克斯 Tom Hanks...",
+        "year": "1998",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "战争"
+        ],
+        "raw_title": "拯救大兵瑞恩/SavingPrivateRyan/雷霆救兵(港)/抢救雷恩大兵(台)"
+    },
+    {
+        "id": 75,
+        "title": "功夫",
+        "rating": "8.8",
+        "director": "周星驰 Stephen Chow",
+        "actor": "周星驰 Stephen Chow",
+        "year": "2004",
+        "country": [
+            "中国大陆中国香港"
+        ],
+        "genre": [
+            "喜剧",
+            "动作",
+            "犯罪",
+            "奇幻"
+        ],
+        "raw_title": "功夫/功夫3D/KungFuHustle"
+    },
+    {
+        "id": 76,
+        "title": "小鞋子",
+        "rating": "9.2",
+        "director": "马基德·马基迪 Majid Majidi",
+        "actor": "默罕默德·阿米尔·纳吉 Mohamma...",
+        "year": "1997",
+        "country": [
+            "伊朗"
+        ],
+        "genre": [
+            "剧情",
+            "儿童",
+            "家庭"
+        ],
+        "raw_title": "小鞋子/بچههایآسمان/天堂的孩子/小童鞋"
+    },
+    {
+        "id": 77,
+        "title": "飞越疯人院",
+        "rating": "9.1",
+        "director": "米洛斯·福尔曼 Miloš Forman",
+        "actor": "杰克·尼科尔森 Jack Nichols...",
+        "year": "1975",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情"
+        ],
+        "raw_title": "飞越疯人院/OneFlewOvertheCuckoo'sNest/飞越杜鹃窝(台)/飞越喜鹊巢"
+    },
+    {
+        "id": 78,
+        "title": "沉默的羔羊",
+        "rating": "8.9",
+        "director": "乔纳森·戴米 Jonathan Demme",
+        "actor": "朱迪·福斯特 Jodie Foster",
+        "year": "1991",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "惊悚",
+            "犯罪"
+        ],
+        "raw_title": "沉默的羔羊/TheSilenceoftheLambs/沉默的羔羊"
+    },
+    {
+        "id": 79,
+        "title": "布达佩斯大饭店",
+        "rating": "8.9",
+        "director": "韦斯·安德森 Wes Anderson",
+        "actor": "拉尔夫·费因斯 Ralph Fiennes",
+        "year": "2014",
+        "country": [
+            "美国德国英国"
+        ],
+        "genre": [
+            "剧情",
+            "喜剧",
+            "冒险"
+        ],
+        "raw_title": "布达佩斯大饭店/TheGrandBudapestHotel/布达佩斯大酒店(港)/欢迎来到布达佩斯大饭店(台)"
+    },
+    {
+        "id": 80,
+        "title": "哈利·波特与阿兹卡班的囚徒",
+        "rating": "9.0",
+        "director": "Alfonso Cuarón",
+        "actor": "丹尼尔·雷德克里夫 Daniel Radcliffe",
+        "year": "2004",
+        "country": [
+            "英国美国"
+        ],
+        "genre": [
+            "冒险",
+            "奇幻"
+        ],
+        "raw_title": "哈利·波特与阿兹卡班的囚徒/HarryPotterandthePrisonerofAzkaban/哈利波特3：阿兹卡班的逃犯(港/台)"
+    },
+    {
+        "id": 81,
+        "title": "蝴蝶效应",
+        "rating": "8.9",
+        "director": "埃里克·布雷斯 Eric Bress",
+        "actor": "主...",
+        "year": "2004",
+        "country": [
+            "美国加拿大"
+        ],
+        "genre": [
+            "剧情",
+            "科幻",
+            "悬疑",
+            "惊悚"
+        ],
+        "raw_title": "蝴蝶效应/TheButterflyEffect/蝴蝶效应"
+    },
+    {
+        "id": 82,
+        "title": "禁闭岛",
+        "rating": "8.9",
+        "director": "Martin Scorsese",
+        "actor": "莱昂纳多·迪卡普里奥 Leonardo DiCaprio",
+        "year": "2010",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "悬疑",
+            "惊悚"
+        ],
+        "raw_title": "禁闭岛/ShutterIsland/不赦岛(港)/隔离岛(台)"
+    },
+    {
+        "id": 83,
+        "title": "致命魔术",
+        "rating": "8.9",
+        "director": "克里斯托弗·诺兰 Christopher Nolan",
+        "actor": "休·杰克曼 Hugh Jackman...",
+        "year": "2006",
+        "country": [
+            "英国美国"
+        ],
+        "genre": [
+            "剧情",
+            "悬疑",
+            "惊悚"
+        ],
+        "raw_title": "致命魔术/ThePrestige/死亡魔法(港)/顶尖对决(台)"
+    },
+    {
+        "id": 84,
+        "title": "心灵捕手",
+        "rating": "9.0",
+        "director": "格斯·范·桑特 Gus Van Sant",
+        "actor": "马特·达蒙 Matt Damon",
+        "year": "1997",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情"
+        ],
+        "raw_title": "心灵捕手/GoodWillHunting/骄阳似我(港)/心灵捕手"
+    },
+    {
+        "id": 85,
+        "title": "超脱",
+        "rating": "9.0",
+        "director": "托尼·凯耶 Tony Kaye",
+        "actor": "艾德里安·布洛迪 Adrien Brody",
+        "year": "2011",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情"
+        ],
+        "raw_title": "超脱/Detachment/人间师格(台)"
+    },
+    {
+        "id": 86,
+        "title": "低俗小说",
+        "rating": "8.9",
+        "director": "昆汀·塔伦蒂诺 Quentin Tarantino",
+        "actor": "约翰·特拉沃尔塔 John Tra...",
+        "year": "1994",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "喜剧",
+            "犯罪"
+        ],
+        "raw_title": "低俗小说/PulpFiction/危险人物(港)/黑色追缉令(台)"
+    },
+    {
+        "id": 87,
+        "title": "摩登时代",
+        "rating": "9.3",
+        "director": "查理·卓别林 Charles Chaplin",
+        "actor": "查理·卓别林 Charles Chaplin ...",
+        "year": "1936",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "喜剧",
+            "爱情"
+        ],
+        "raw_title": "摩登时代/ModernTimes/TheMasses/LesTempsmodernes"
+    },
+    {
+        "id": 88,
+        "title": "喜剧之王",
+        "rating": "8.8",
+        "director": "周星驰 Stephen Chow",
+        "actor": "周星驰 Stephen Ch...",
+        "year": "1999",
+        "country": [
+            "中国香港"
+        ],
+        "genre": [
+            "剧情",
+            "喜剧",
+            "爱情"
+        ],
+        "raw_title": "喜剧之王/喜劇之王/KingofComedy"
+    },
+    {
+        "id": 89,
+        "title": "春光乍泄",
+        "rating": "9.0",
+        "director": "王家卫 Kar Wai Wong",
+        "actor": "张国荣 Leslie Cheung",
+        "year": "1997",
+        "country": [
+            "中国香港日本韩国"
+        ],
+        "genre": [
+            "剧情",
+            "爱情"
+        ],
+        "raw_title": "春光乍泄/春光乍洩/一起快乐/HappyTogether"
+    },
+    {
+        "id": 90,
+        "title": "海豚湾",
+        "rating": "9.3",
+        "director": "路易·西霍尤斯 Louie Psihoyos",
+        "actor": "路易·西霍尤斯 Louie Psihoyo...",
+        "year": "2009",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "纪录片"
+        ],
+        "raw_title": "海豚湾/TheCove/血色海湾(台)/海湾"
+    },
+    {
+        "id": 91,
+        "title": "致命ID",
+        "rating": "8.9",
+        "director": "詹姆斯·曼高德 James Mangold",
+        "actor": "约翰·库萨克 John Cusack",
+        "year": "2003",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "悬疑",
+            "惊悚"
+        ],
+        "raw_title": "致命ID/Identity/杀人游戏/致命身份"
+    },
+    {
+        "id": 92,
+        "title": "杀人回忆",
+        "rating": "8.9",
+        "director": "奉俊昊 Joon-ho Bong",
+        "actor": "宋康昊 Kang-ho Song",
+        "year": "2003",
+        "country": [
+            "韩国"
+        ],
+        "genre": [
+            "剧情",
+            "动作",
+            "悬疑",
+            "惊悚",
+            "犯罪"
+        ],
+        "raw_title": "杀人回忆/살인의추억/谋杀回忆/杀手回忆录"
+    },
+    {
+        "id": 93,
+        "title": "美国往事",
+        "rating": "9.1",
+        "director": "赛尔乔·莱翁内 Sergio Leone",
+        "actor": "罗伯特·德尼罗 Robert De Niro ...",
+        "year": "1984",
+        "country": [
+            "美国意大利"
+        ],
+        "genre": [
+            "剧情",
+            "犯罪"
+        ],
+        "raw_title": "美国往事/OnceUponaTimeinAmerica/四海兄弟(台)/义薄云天(港)"
+    },
+    {
+        "id": 94,
+        "title": "哈利·波特与密室",
+        "rating": "8.9",
+        "director": "Chris Columbus",
+        "actor": "丹尼尔·雷德克里夫 Daniel Radcliffe",
+        "year": "2002",
+        "country": [
+            "英国美国"
+        ],
+        "genre": [
+            "冒险",
+            "奇幻"
+        ],
+        "raw_title": "哈利·波特与密室/HarryPotterandtheChamberofSecrets/哈利波特2：消失的密室(港/台)"
+    },
+    {
+        "id": 95,
+        "title": "红辣椒",
+        "rating": "9.1",
+        "director": "今敏 Satoshi Kon",
+        "actor": "林原惠美 Megumi Hayashibara",
+        "year": "2006",
+        "country": [
+            "日本"
+        ],
+        "genre": [
+            "科幻",
+            "悬疑",
+            "惊悚",
+            "动画"
+        ],
+        "raw_title": "红辣椒/パプリカ/盗梦侦探(港/台)"
+    },
+    {
+        "id": 96,
+        "title": "加勒比海盗",
+        "rating": "8.8",
+        "director": "戈尔·维宾斯基 Gore Verbinski",
+        "actor": "约翰尼·德普 Johnny Depp",
+        "year": "2003",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "动作",
+            "冒险",
+            "奇幻"
+        ],
+        "raw_title": "加勒比海盗/PiratesoftheCaribbean:TheCurseoftheBlackPearl/加勒比海盗1：黑珍珠号的诅咒/神鬼奇航：鬼盗船魔咒(台)"
+    },
+    {
+        "id": 97,
+        "title": "一一",
+        "rating": "9.1",
+        "director": "杨德昌 Edward Yang",
+        "actor": "吴念真",
+        "year": "2000",
+        "country": [
+            "中国台湾日本"
+        ],
+        "genre": [
+            "剧情",
+            "爱情",
+            "家庭"
+        ],
+        "raw_title": "一一/Yiyi/Yiyi:AOneandaTwo"
+    },
+    {
+        "id": 98,
+        "title": "七宗罪",
+        "rating": "8.8",
+        "director": "大卫·芬奇 David Fincher",
+        "actor": "摩根·弗里曼 Morgan Freeman",
+        "year": "1995",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "悬疑",
+            "惊悚",
+            "犯罪"
+        ],
+        "raw_title": "七宗罪/Se7en/火线追缉令(台)/7宗罪"
+    },
+    {
+        "id": 99,
+        "title": "唐伯虎点秋香",
+        "rating": "8.7",
+        "director": "李力持 Lik-Chi Lee",
+        "actor": "周星驰 Stephen Chow",
+        "year": "1993",
+        "country": [
+            "中国香港"
+        ],
+        "genre": [
+            "喜剧",
+            "爱情",
+            "古装"
+        ],
+        "raw_title": "唐伯虎点秋香/唐伯虎點秋香/FlirtingScholar"
+    },
+    {
+        "id": 100,
+        "title": "狩猎",
+        "rating": "9.1",
+        "director": "托马斯·温特伯格 Thomas Vinterberg",
+        "actor": "麦斯·米科尔森 Mads Mik...",
+        "year": "2012",
+        "country": [
+            "丹麦瑞典"
+        ],
+        "genre": [
+            "剧情"
+        ],
+        "raw_title": "狩猎/Jagten/诬网(港)/谎言的烙印(台)"
+    },
+    {
+        "id": 101,
+        "title": "7号房的礼物",
+        "rating": "8.9",
+        "director": "李焕庆 Hwan-kyeong Lee",
+        "actor": "柳承龙 Seung-yong Ryoo",
+        "year": "2013",
+        "country": [
+            "韩国"
+        ],
+        "genre": [
+            "剧情",
+            "喜剧",
+            "家庭"
+        ],
+        "raw_title": "7号房的礼物/7번방의선물/戆爸的礼物(港)/7号囚房的礼物"
+    },
+    {
+        "id": 102,
+        "title": "蝙蝠侠：黑暗骑士崛起",
+        "rating": "8.9",
+        "director": "克里斯托弗·诺兰 Christopher Nolan",
+        "actor": "克里斯蒂安·贝尔 Christ...",
+        "year": "2012",
+        "country": [
+            "美国英国"
+        ],
+        "genre": [
+            "剧情",
+            "动作",
+            "科幻",
+            "惊悚",
+            "犯罪"
+        ],
+        "raw_title": "蝙蝠侠：黑暗骑士崛起/TheDarkKnightRises/蝙蝠侠前传3：黑暗骑士崛起/黑暗骑士：黎明升起(台)"
+    },
+    {
+        "id": 103,
+        "title": "被嫌弃的松子的一生",
+        "rating": "8.8",
+        "director": "中岛哲也 Tetsuya Nakashima",
+        "actor": "中谷美纪 Miki Nakatani",
+        "year": "2006",
+        "country": [
+            "日本"
+        ],
+        "genre": [
+            "剧情",
+            "歌舞"
+        ],
+        "raw_title": "被嫌弃的松子的一生/嫌われ松子の一生/花样奇缘(港)/令人讨厌的松子的一生(台)"
+    },
+    {
+        "id": 104,
+        "title": "甜蜜蜜",
+        "rating": "8.9",
+        "director": "陈可辛 Peter Chan",
+        "actor": "黎明 Leon Lai",
+        "year": "1996",
+        "country": [
+            "中国香港"
+        ],
+        "genre": [
+            "剧情",
+            "爱情"
+        ],
+        "raw_title": "甜蜜蜜/Comrades:AlmostaLoveStory"
+    },
+    {
+        "id": 105,
+        "title": "爱在黎明破晓前",
+        "rating": "8.8",
+        "director": "理查德·林克莱特 Richard Linklater",
+        "actor": "伊桑·霍克 Ethan Hawke ...",
+        "year": "1995",
+        "country": [
+            "美国奥地利瑞士"
+        ],
+        "genre": [
+            "剧情",
+            "爱情"
+        ],
+        "raw_title": "爱在黎明破晓前/BeforeSunrise/情留半天(港)/爱在黎明破晓时(台)"
+    },
+    {
+        "id": 106,
+        "title": "第六感",
+        "rating": "8.9",
+        "director": "M·奈特·沙马兰 M. Night Shyamalan",
+        "actor": "布鲁斯·威利斯 Bruce Wi...",
+        "year": "1999",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "悬疑",
+            "惊悚"
+        ],
+        "raw_title": "第六感/TheSixthSense/鬼眼(港)/灵异第六感(台)"
+    },
+    {
+        "id": 107,
+        "title": "超能陆战队",
+        "rating": "8.8",
+        "director": "唐·霍尔 Don Hall",
+        "actor": "斯科特...",
+        "year": "2014",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "喜剧",
+            "动作",
+            "科幻",
+            "冒险",
+            "动画"
+        ],
+        "raw_title": "超能陆战队/BigHero6/大英雄联盟(港)/大英雄天团(台)"
+    },
+    {
+        "id": 108,
+        "title": "重庆森林",
+        "rating": "8.8",
+        "director": "王家卫 Kar Wai Wong",
+        "actor": "林青霞 Brigitte Lin",
+        "year": "1994",
+        "country": [
+            "中国香港"
+        ],
+        "genre": [
+            "剧情",
+            "爱情"
+        ],
+        "raw_title": "重庆森林/重慶森林/ChungkingExpress"
+    },
+    {
+        "id": 109,
+        "title": "请以你的名字呼唤我",
+        "rating": "8.8",
+        "director": "卢卡·瓜达尼诺 Luca Guadagnino",
+        "actor": "艾米·汉莫 Armie Hammer",
+        "year": "2017",
+        "country": [
+            "意大利法国巴西美国"
+        ],
+        "genre": [
+            "剧情",
+            "爱情"
+        ],
+        "raw_title": "请以你的名字呼唤我/CallMebyYourName/以你的名字呼唤我(港/台)"
+    },
+    {
+        "id": 110,
+        "title": "入殓师",
+        "rating": "8.9",
+        "director": "泷田洋二郎 Yôjirô Takita",
+        "actor": "本木雅弘 Masahiro Motoki",
+        "year": "2008",
+        "country": [
+            "日本"
+        ],
+        "genre": [
+            "剧情"
+        ],
+        "raw_title": "入殓师/おくりびと/礼仪师之奏鸣曲(港)/礼仪师(台)"
+    },
+    {
+        "id": 111,
+        "title": "寄生虫",
+        "rating": "8.8",
+        "director": "奉俊昊 Joon-ho Bong",
+        "actor": "宋康昊 Kang-ho Song",
+        "year": "2019",
+        "country": [
+            "韩国"
+        ],
+        "genre": [
+            "剧情"
+        ],
+        "raw_title": "寄生虫/기생충/寄生上流(台)/上流寄生族(港)"
+    },
+    {
+        "id": 112,
+        "title": "断背山",
+        "rating": "8.8",
+        "director": "李安 Ang Lee",
+        "actor": "希斯·莱杰 Heath Ledger",
+        "year": "2005",
+        "country": [
+            "美国加拿大"
+        ],
+        "genre": [
+            "剧情",
+            "爱情",
+            "家庭"
+        ],
+        "raw_title": "断背山/BrokebackMountain/断臂山/BBM"
+    },
+    {
+        "id": 113,
+        "title": "剪刀手爱德华",
+        "rating": "8.7",
+        "director": "蒂姆·波顿 Tim Burton",
+        "actor": "约翰尼·德普 Johnny Depp",
+        "year": "1990",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "爱情",
+            "奇幻"
+        ],
+        "raw_title": "剪刀手爱德华/EdwardScissorhands/幻海奇缘(港)/剪刀手爱德华"
+    },
+    {
+        "id": 114,
+        "title": "幽灵公主",
+        "rating": "8.9",
+        "director": "宫崎骏 Hayao Miyazaki",
+        "actor": "松田洋治 Yôji Matsuda",
+        "year": "1997",
+        "country": [
+            "日本"
+        ],
+        "genre": [
+            "冒险",
+            "奇幻",
+            "动画"
+        ],
+        "raw_title": "幽灵公主/もののけ姫/魔法公主(港)/魔法公主(台)"
+    },
+    {
+        "id": 115,
+        "title": "爱在日落黄昏时",
+        "rating": "8.9",
+        "director": "理查德·林克莱特 Richard Linklater",
+        "actor": "伊桑·霍克 Ethan Hawke ...",
+        "year": "2004",
+        "country": [
+            "美国法国"
+        ],
+        "genre": [
+            "剧情",
+            "爱情"
+        ],
+        "raw_title": "爱在日落黄昏时/BeforeSunset/日落巴黎(港)/爱在日落巴黎时(台)"
+    },
+    {
+        "id": 116,
+        "title": "勇敢的心",
+        "rating": "8.9",
+        "director": "梅尔·吉布森 Mel Gibson",
+        "actor": "梅尔·吉布森 Mel Gibson",
+        "year": "1995",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "动作",
+            "历史",
+            "传记",
+            "战争"
+        ],
+        "raw_title": "勇敢的心/Braveheart/惊世未了缘(港)/梅尔吉勃逊之英雄本色(台)"
+    },
+    {
+        "id": 117,
+        "title": "菊次郎的夏天",
+        "rating": "8.9",
+        "director": "北野武 Takeshi Kitano",
+        "actor": "北野武 Takeshi Kitano",
+        "year": "1999",
+        "country": [
+            "日本"
+        ],
+        "genre": [
+            "剧情",
+            "喜剧"
+        ],
+        "raw_title": "菊次郎的夏天/菊次郎の夏/菊次郎之夏/Kikujirônonatsu"
+    },
+    {
+        "id": 118,
+        "title": "借东西的小人阿莉埃蒂",
+        "rating": "8.9",
+        "director": "米林宏昌 Hiromasa Yonebayashi",
+        "actor": "志田未来 Mirai Shida",
+        "year": "2010",
+        "country": [
+            "日本"
+        ],
+        "genre": [
+            "冒险",
+            "奇幻",
+            "动画"
+        ],
+        "raw_title": "借东西的小人阿莉埃蒂/借りぐらしのアリエッティ/借物少女艾莉缇(台)/借东西的小矮人亚莉亚蒂(港)"
+    },
+    {
+        "id": 119,
+        "title": "未麻的部屋",
+        "rating": "9.1",
+        "director": "今敏 Satoshi Kon",
+        "actor": "岩男润子 Junko Iwao",
+        "year": "1997",
+        "country": [
+            "日本"
+        ],
+        "genre": [
+            "剧情",
+            "悬疑",
+            "惊悚",
+            "犯罪",
+            "动画"
+        ],
+        "raw_title": "未麻的部屋/PerfectBlue/蓝色恐惧(港/台)"
+    },
+    {
+        "id": 120,
+        "title": "消失的爱人",
+        "rating": "8.7",
+        "director": "大卫·芬奇 David Fincher",
+        "actor": "本·阿弗莱克 Ben Affleck",
+        "year": "2014",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "悬疑",
+            "惊悚",
+            "犯罪"
+        ],
+        "raw_title": "消失的爱人/GoneGirl/失踪的女孩/失踪女孩"
+    },
+    {
+        "id": 121,
+        "title": "无人知晓",
+        "rating": "9.1",
+        "director": "是枝裕和 Hirokazu Koreeda",
+        "actor": "柳乐优弥 Yûya Yagira",
+        "year": "2004",
+        "country": [
+            "日本"
+        ],
+        "genre": [
+            "剧情"
+        ],
+        "raw_title": "无人知晓/誰も知らない/谁知赤子心(港)/无人知晓的夏日清晨(台)"
+    },
+    {
+        "id": 122,
+        "title": "时空恋旅人",
+        "rating": "8.8",
+        "director": "理查德·柯蒂斯 Richard Curtis",
+        "actor": "多姆纳尔·格里森 Domhnall Gl...",
+        "year": "2013",
+        "country": [
+            "英国美国"
+        ],
+        "genre": [
+            "喜剧",
+            "爱情",
+            "奇幻"
+        ],
+        "raw_title": "时空恋旅人/AboutTime/回到最爱的一天(港)/真爱每一天(台)"
+    },
+    {
+        "id": 123,
+        "title": "完美的世界",
+        "rating": "9.1",
+        "director": "克林特·伊斯特伍德 Clint Eastwood",
+        "actor": "凯文·科斯特纳 Kevin Cos...",
+        "year": "1993",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "犯罪"
+        ],
+        "raw_title": "完美的世界/APerfectWorld/强盗保镳"
+    },
+    {
+        "id": 124,
+        "title": "阳光灿烂的日子",
+        "rating": "8.8",
+        "director": "姜文 Wen Jiang",
+        "actor": "夏雨 Yu Xia",
+        "year": "1994",
+        "country": [
+            "中国大陆中国香港"
+        ],
+        "genre": [
+            "剧情",
+            "爱情"
+        ],
+        "raw_title": "阳光灿烂的日子/IntheHeatoftheSun"
+    },
+    {
+        "id": 125,
+        "title": "倩女幽魂",
+        "rating": "8.8",
+        "director": "程小东 Siu-Tung Ching",
+        "actor": "张国荣 Leslie Cheung",
+        "year": "1987",
+        "country": [
+            "中国香港"
+        ],
+        "genre": [
+            "爱情",
+            "奇幻",
+            "武侠",
+            "古装"
+        ],
+        "raw_title": "倩女幽魂/倩女幽魂(87版)/倩女幽魂：妖魔道"
+    },
+    {
+        "id": 126,
+        "title": "哈利·波特与火焰杯",
+        "rating": "8.8",
+        "director": "迈克·内威尔 Mike Newell",
+        "actor": "丹尼尔·雷德克里夫 Daniel Radclif...",
+        "year": "2005",
+        "country": [
+            "英国美国"
+        ],
+        "genre": [
+            "悬疑",
+            "冒险",
+            "奇幻"
+        ],
+        "raw_title": "哈利·波特与火焰杯/HarryPotterandtheGobletofFire/哈利波特4：火杯的考验(港/台)"
+    },
+    {
+        "id": 127,
+        "title": "小森林夏秋篇",
+        "rating": "9.0",
+        "director": "森淳一 Junichi Mori",
+        "actor": "桥本爱 Ai Hashimoto",
+        "year": "2014",
+        "country": [
+            "日本"
+        ],
+        "genre": [
+            "剧情"
+        ],
+        "raw_title": "小森林夏秋篇/リトル・フォレスト夏・秋/小森食光/夏秋篇(台)"
+    },
+    {
+        "id": 128,
+        "title": "天使爱美丽",
+        "rating": "8.7",
+        "director": "让-皮埃尔·热内 Jean-Pierre Jeunet",
+        "actor": "奥黛丽·塔图 Audrey Tau...",
+        "year": "2001",
+        "country": [
+            "法国德国"
+        ],
+        "genre": [
+            "剧情",
+            "喜剧",
+            "爱情"
+        ],
+        "raw_title": "天使爱美丽/LeFabuleuxdestind'AméliePoulain/艾蜜莉的异想世界(台)/天使艾米莉"
+    },
+    {
+        "id": 129,
+        "title": "茶馆",
+        "rating": "9.6",
+        "director": "谢添 Tian Xie",
+        "actor": "于是之 Shizhi Yu",
+        "year": "1982(中国大陆)",
+        "country": [
+            "中国大陆"
+        ],
+        "genre": [
+            "剧情",
+            "历史"
+        ],
+        "raw_title": "茶馆/TheTeahouse"
+    },
+    {
+        "id": 130,
+        "title": "侧耳倾听",
+        "rating": "8.9",
+        "director": "近藤喜文 Yoshifumi Kondo",
+        "actor": "本名阳子 Youko Honna",
+        "year": "1995",
+        "country": [
+            "日本"
+        ],
+        "genre": [
+            "剧情",
+            "爱情",
+            "动画"
+        ],
+        "raw_title": "侧耳倾听/耳をすませば/心之谷(台)/梦幻街少女(港)"
+    },
+    {
+        "id": 131,
+        "title": "驯龙高手",
+        "rating": "8.8",
+        "director": "迪恩·德布洛斯 Dean DeBlois",
+        "actor": "主演:...",
+        "year": "2010",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "冒险",
+            "奇幻",
+            "动画"
+        ],
+        "raw_title": "驯龙高手/HowtoTrainYourDragon/驯龙记(港)"
+    },
+    {
+        "id": 132,
+        "title": "教父3",
+        "rating": "9.0",
+        "director": "弗朗西斯·福特·科波拉 Francis Ford Coppola",
+        "actor": "阿尔·帕西诺 A...",
+        "year": "1990",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "犯罪"
+        ],
+        "raw_title": "教父3/TheGodfather:PartIII/教父第三集/教父III"
+    },
+    {
+        "id": 133,
+        "title": "新世界",
+        "rating": "8.9",
+        "director": "朴勋政 Hoon-jung Park",
+        "actor": "李政宰 Jung-Jae Lee",
+        "year": "2013",
+        "country": [
+            "韩国"
+        ],
+        "genre": [
+            "剧情",
+            "犯罪"
+        ],
+        "raw_title": "新世界/신세계/暗黑新世界(台)/NewWorld"
+    },
+    {
+        "id": 134,
+        "title": "怪兽电力公司",
+        "rating": "8.8",
+        "director": "彼特·道格特 Pete Docter",
+        "actor": "约...",
+        "year": "2001",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "喜剧",
+            "冒险",
+            "奇幻",
+            "动画",
+            "儿童"
+        ],
+        "raw_title": "怪兽电力公司/Monsters,Inc./怪兽公司(港)/怪物公司"
+    },
+    {
+        "id": 135,
+        "title": "幸福终点站",
+        "rating": "8.8",
+        "director": "史蒂文·斯皮尔伯格 Steven Spielberg",
+        "actor": "汤姆·汉克斯 Tom Hanks...",
+        "year": "2004",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "喜剧",
+            "爱情"
+        ],
+        "raw_title": "幸福终点站/TheTerminal/机场客运站(港)/航站情缘(台)"
+    },
+    {
+        "id": 136,
+        "title": "一个叫欧维的男人决定去死",
+        "rating": "8.9",
+        "director": "汉内斯·赫尔姆 Hannes Holm",
+        "actor": "罗夫·拉斯加德 Rolf Lassgård...",
+        "year": "2015",
+        "country": [
+            "瑞典"
+        ],
+        "genre": [
+            "剧情"
+        ],
+        "raw_title": "一个叫欧维的男人决定去死/EnmansomheterOve/明天别再来敲门(台)/想死冇咁易(港)"
+    },
+    {
+        "id": 137,
+        "title": "傲慢与偏见",
+        "rating": "8.7",
+        "director": "乔·怀特 Joe Wright",
+        "actor": "凯拉·奈特莉 Keira Knightley",
+        "year": "2005",
+        "country": [
+            "法国英国美国"
+        ],
+        "genre": [
+            "剧情",
+            "爱情"
+        ],
+        "raw_title": "傲慢与偏见/Pride&Prejudice/傲慢与偏见2005/PrideAndPrejudice"
+    },
+    {
+        "id": 138,
+        "title": "玩具总动员3",
+        "rating": "8.9",
+        "director": "李·昂克里奇 Lee Unkrich",
+        "actor": "汤姆·汉克斯 Tom Hanks",
+        "year": "2010",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "喜剧",
+            "冒险",
+            "奇幻",
+            "动画"
+        ],
+        "raw_title": "玩具总动员3/ToyStory3/反斗奇兵3(港)/玩具的故事3"
+    },
+    {
+        "id": 139,
+        "title": "头脑特工队",
+        "rating": "8.8",
+        "director": "彼特·道格特 Pete Docter",
+        "actor": NaN,
+        "year": "2015",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "喜剧",
+            "冒险",
+            "动画"
+        ],
+        "raw_title": "头脑特工队/InsideOut/玩转脑朋友(港)/脑筋急转弯(台)"
+    },
+    {
+        "id": 140,
+        "title": "小森林冬春篇",
+        "rating": "9.0",
+        "director": "森淳一 Junichi Mori",
+        "actor": "桥本爱 Ai Hashimoto",
+        "year": "2015",
+        "country": [
+            "日本"
+        ],
+        "genre": [
+            "剧情"
+        ],
+        "raw_title": "小森林冬春篇/リトル・フォレスト冬・春/小森食光/冬春篇(台)"
+    },
+    {
+        "id": 141,
+        "title": "被解救的姜戈",
+        "rating": "8.8",
+        "director": "昆汀·塔伦蒂诺 Quentin Tarantino",
+        "actor": "杰米·福克斯 Jamie Foxx /...",
+        "year": "2012",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "动作",
+            "冒险",
+            "西部"
+        ],
+        "raw_title": "被解救的姜戈/DjangoUnchained/被解放的姜戈/决杀令(台)"
+    },
+    {
+        "id": 142,
+        "title": "色，戒",
+        "rating": "8.7",
+        "director": "李安 Ang Lee",
+        "actor": "梁朝伟 Tony Leung Chiu Wai",
+        "year": "2007",
+        "country": [
+            "中国台湾中国大陆美国中国香港"
+        ],
+        "genre": [
+            "剧情",
+            "爱情",
+            "情色"
+        ],
+        "raw_title": "色，戒/色|戒/色·戒"
+    },
+    {
+        "id": 143,
+        "title": "萤火之森",
+        "rating": "8.8",
+        "director": "大森贵弘 Takahiro Omori",
+        "actor": "佐仓绫音 Ayane Sakura",
+        "year": "2011",
+        "country": [
+            "日本"
+        ],
+        "genre": [
+            "剧情",
+            "爱情",
+            "奇幻",
+            "动画"
+        ],
+        "raw_title": "萤火之森/蛍火の杜へ/萤火之社/Hotarubinomorie"
+    },
+    {
+        "id": 144,
+        "title": "釜山行",
+        "rating": "8.6",
+        "director": "延尚昊 Sang-ho Yeon",
+        "actor": "孔侑 Yoo Gong",
+        "year": "2016",
+        "country": [
+            "韩国"
+        ],
+        "genre": [
+            "动作",
+            "惊悚",
+            "灾难"
+        ],
+        "raw_title": "釜山行/부산행/尸杀列车(港)/尸速列车(台)"
+    },
+    {
+        "id": 145,
+        "title": "神偷奶爸",
+        "rating": "8.7",
+        "director": "皮艾尔·柯芬 Pierre Coffin",
+        "actor": "...",
+        "year": "2010",
+        "country": [
+            "美国法国"
+        ],
+        "genre": [
+            "喜剧",
+            "冒险",
+            "动画"
+        ],
+        "raw_title": "神偷奶爸/DespicableMe/卑鄙的我/坏蛋奖门人(港)"
+    },
+    {
+        "id": 146,
+        "title": "九品芝麻官",
+        "rating": "8.7",
+        "director": "王晶 Jing Wong",
+        "actor": "周星驰 Stephen Chow",
+        "year": "1994",
+        "country": [
+            "中国香港中国大陆"
+        ],
+        "genre": [
+            "剧情",
+            "喜剧",
+            "古装"
+        ],
+        "raw_title": "九品芝麻官/九品芝麻官之白面包青天/HailtheJudge"
+    },
+    {
+        "id": 147,
+        "title": "哪吒闹海",
+        "rating": "9.2",
+        "director": "王树忱 Shuchen Wang",
+        "actor": "梁正晖 Zhenghui ...",
+        "year": "1979",
+        "country": [
+            "中国大陆"
+        ],
+        "genre": [
+            "冒险",
+            "奇幻",
+            "动画"
+        ],
+        "raw_title": "哪吒闹海/PrinceNezha'sTriumphAgainstDragonKing/NezhaConquerstheDragonKing"
+    },
+    {
+        "id": 148,
+        "title": "告白",
+        "rating": "8.8",
+        "director": "中岛哲也 Tetsuya Nakashima",
+        "actor": "松隆子 Takako Matsu",
+        "year": "2010",
+        "country": [
+            "日本"
+        ],
+        "genre": [
+            "剧情",
+            "悬疑"
+        ],
+        "raw_title": "告白/自白/母亲"
+    },
+    {
+        "id": 149,
+        "title": "喜宴",
+        "rating": "9.0",
+        "director": "李安 Ang Lee",
+        "actor": "赵文瑄 Winston Chao",
+        "year": "1993",
+        "country": [
+            "中国台湾美国"
+        ],
+        "genre": [
+            "剧情",
+            "喜剧",
+            "爱情",
+            "家庭"
+        ],
+        "raw_title": "喜宴/囍宴/TheWeddingBanquet"
+    },
+    {
+        "id": 150,
+        "title": "玛丽和马克思",
+        "rating": "9.0",
+        "director": "亚当·艾略特 Adam Elliot",
+        "actor": "托妮·科莱特 Toni Collette",
+        "year": "2009",
+        "country": [
+            "澳大利亚美国"
+        ],
+        "genre": [
+            "剧情",
+            "喜剧",
+            "动画"
+        ],
+        "raw_title": "玛丽和马克思/MaryandMax/巧克力情缘(台)/同是天涯寂寞客"
+    },
+    {
+        "id": 151,
+        "title": "模仿游戏",
+        "rating": "8.8",
+        "director": "莫滕·泰杜姆 Morten Tyldum",
+        "actor": "本尼迪克特·康伯巴奇 Benedict C...",
+        "year": "2014",
+        "country": [
+            "英国美国"
+        ],
+        "genre": [
+            "剧情",
+            "传记",
+            "战争"
+        ],
+        "raw_title": "模仿游戏/TheImitationGame/解码游戏(港)/模拟游戏"
+    },
+    {
+        "id": 152,
+        "title": "大鱼",
+        "rating": "8.8",
+        "director": "蒂姆·波顿 Tim Burton",
+        "actor": "伊万·麦克格雷格 Ewan McGregor",
+        "year": "2003",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "爱情",
+            "冒险",
+            "奇幻"
+        ],
+        "raw_title": "大鱼/BigFish/大鱼奇缘(港)/大智若鱼(台)"
+    },
+    {
+        "id": 153,
+        "title": "头号玩家",
+        "rating": "8.6",
+        "director": "史蒂文·斯皮尔伯格 Steven Spielberg",
+        "actor": "泰伊·谢里丹 Tye Sheri...",
+        "year": "2018",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "动作",
+            "科幻",
+            "冒险"
+        ],
+        "raw_title": "头号玩家/ReadyPlayerOne/玩家一号/挑战者1号(港)"
+    },
+    {
+        "id": 154,
+        "title": "花样年华",
+        "rating": "8.8",
+        "director": "王家卫 Kar Wai Wong",
+        "actor": "梁朝伟 Tony Leung Chiu Wai",
+        "year": "2000",
+        "country": [
+            "中国香港"
+        ],
+        "genre": [
+            "剧情",
+            "爱情"
+        ],
+        "raw_title": "花样年华/花樣年華/IntheMoodforLove"
+    },
+    {
+        "id": 155,
+        "title": "射雕英雄传之东成西就",
+        "rating": "8.7",
+        "director": "刘镇伟 Jeffrey Lau",
+        "actor": "梁朝伟 Tony Leung Chiu Wai",
+        "year": "1993",
+        "country": [
+            "中国香港"
+        ],
+        "genre": [
+            "喜剧",
+            "奇幻",
+            "武侠",
+            "古装"
+        ],
+        "raw_title": "射雕英雄传之东成西就/射鵰英雄傳之東成西就/东成西就/大英雄(日本)"
+    },
+    {
+        "id": 156,
+        "title": "七武士",
+        "rating": "9.3",
+        "director": "黑泽明 Akira Kurosawa",
+        "actor": "三船敏郎 Toshirô Mifune",
+        "year": "1954",
+        "country": [
+            "日本"
+        ],
+        "genre": [
+            "剧情",
+            "动作",
+            "冒险"
+        ],
+        "raw_title": "七武士/七人の侍/七侠四义(港)/七剑客(港)"
+    },
+    {
+        "id": 157,
+        "title": "我是山姆",
+        "rating": "9.0",
+        "director": "杰茜·尼尔森 Jessie Nelson",
+        "actor": "Sean Penn",
+        "year": "2001",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "家庭"
+        ],
+        "raw_title": "我是山姆/IAmSam/不一样的爸爸(港)/他不笨，他是我爸爸(台)"
+    },
+    {
+        "id": 158,
+        "title": "惊魂记",
+        "rating": "9.0",
+        "director": "阿尔弗雷德·希区柯克 Alfred Hitchcock",
+        "actor": "安东尼·博金斯 Antho...",
+        "year": "1960",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "悬疑",
+            "惊悚",
+            "恐怖"
+        ],
+        "raw_title": "惊魂记/Psycho/精神病患者/触目惊心(港)"
+    },
+    {
+        "id": 159,
+        "title": "血战钢锯岭",
+        "rating": "8.7",
+        "director": "梅尔·吉布森 Mel Gibson",
+        "actor": "安德鲁·加菲尔德 Andrew Garfield /...",
+        "year": "2016",
+        "country": [
+            "澳大利亚美国"
+        ],
+        "genre": [
+            "剧情",
+            "历史",
+            "传记",
+            "战争"
+        ],
+        "raw_title": "血战钢锯岭/HacksawRidge/钢锯岭/钢铁英雄(台)"
+    },
+    {
+        "id": 160,
+        "title": "阳光姐妹淘",
+        "rating": "8.8",
+        "director": "姜炯哲 Hyeong-Cheol Kang",
+        "actor": "沈恩京 Eun-kyung Shim",
+        "year": "2011",
+        "country": [
+            "韩国"
+        ],
+        "genre": [
+            "剧情",
+            "喜剧"
+        ],
+        "raw_title": "阳光姐妹淘/써니/阳光姊妹淘(港)/桑尼"
+    },
+    {
+        "id": 161,
+        "title": "恐怖直播",
+        "rating": "8.7",
+        "director": "金秉祐 Byeong-woo Kim",
+        "actor": "河正宇 Jung-woo Ha",
+        "year": "2013",
+        "country": [
+            "韩国"
+        ],
+        "genre": [
+            "剧情",
+            "悬疑",
+            "犯罪"
+        ],
+        "raw_title": "恐怖直播/더테러라이브/死亡“动”新闻(港)/恐怖攻击直播(台)"
+    },
+    {
+        "id": 162,
+        "title": "你的名字。",
+        "rating": "8.5",
+        "director": "新海诚 Makoto Shinkai",
+        "actor": "神木隆之介 Ryûnosuke Kamiki",
+        "year": "2016",
+        "country": [
+            "日本"
+        ],
+        "genre": [
+            "剧情",
+            "爱情",
+            "动画"
+        ],
+        "raw_title": "你的名字。/君の名は。/你的名字/君之名"
+    },
+    {
+        "id": 163,
+        "title": "黑客帝国3：矩阵革命",
+        "rating": "8.8",
+        "director": "拉娜·沃卓斯基 Lana Wachowski",
+        "actor": "...",
+        "year": "2003",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "动作",
+            "科幻"
+        ],
+        "raw_title": "黑客帝国3：矩阵革命/TheMatrixRevolutions/22世纪杀人网络3：惊变世纪(港)/骇客任务完结篇：最后战役(台)"
+    },
+    {
+        "id": 164,
+        "title": "三块广告牌",
+        "rating": "8.7",
+        "director": "马丁·麦克唐纳 Martin McDonagh",
+        "actor": "弗兰西斯·麦克多蒙德 France...",
+        "year": "2017",
+        "country": [
+            "英国美国"
+        ],
+        "genre": [
+            "剧情",
+            "犯罪"
+        ],
+        "raw_title": "三块广告牌/ThreeBillboardsOutsideEbbing,Missouri/广告牌杀人事件(港)/意外(台)"
+    },
+    {
+        "id": 165,
+        "title": "心迷宫",
+        "rating": "8.8",
+        "director": "忻钰坤 Yukun Xin",
+        "actor": "霍卫民 Weimin Huo",
+        "year": "2014",
+        "country": [
+            "中国大陆"
+        ],
+        "genre": [
+            "剧情",
+            "悬疑",
+            "犯罪"
+        ],
+        "raw_title": "心迷宫/殡棺/TheCoffinintheMountain"
+    },
+    {
+        "id": 166,
+        "title": "电锯惊魂",
+        "rating": "8.7",
+        "director": "詹姆斯·温 James Wan",
+        "actor": "雷·沃纳尔 Leigh Whannell",
+        "year": "2004",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "悬疑",
+            "惊悚",
+            "恐怖"
+        ],
+        "raw_title": "电锯惊魂/Saw/恐惧斗室(港)/夺魂锯(台)"
+    },
+    {
+        "id": 167,
+        "title": "达拉斯买家俱乐部",
+        "rating": "8.8",
+        "director": "让-马克·瓦雷 Jean-Marc Vallée",
+        "actor": "马修·麦康纳 Matthew McCon...",
+        "year": "2013",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "传记"
+        ],
+        "raw_title": "达拉斯买家俱乐部/DallasBuyersClub/续命枭雄(港)/药命俱乐部(台)"
+    },
+    {
+        "id": 168,
+        "title": "小丑",
+        "rating": "8.7",
+        "director": "托德·菲利普斯 Todd Phillips",
+        "actor": "杰昆·菲尼克斯 Joaquin Phoeni...",
+        "year": "2019",
+        "country": [
+            "美国加拿大"
+        ],
+        "genre": [
+            "剧情",
+            "惊悚",
+            "犯罪"
+        ],
+        "raw_title": "小丑/Joker/小丑起源电影：罗密欧/Romeo"
+    },
+    {
+        "id": 169,
+        "title": "疯狂原始人",
+        "rating": "8.7",
+        "director": "科克·德·米科 Kirk De Micco",
+        "actor": "主演...",
+        "year": "2013",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "喜剧",
+            "冒险",
+            "动画"
+        ],
+        "raw_title": "疯狂原始人/TheCroods/古鲁家族(港/台)"
+    },
+    {
+        "id": 170,
+        "title": "谍影重重3",
+        "rating": "8.8",
+        "director": "保罗·格林格拉斯 Paul Greengrass",
+        "actor": "马特·达蒙 Matt Damon",
+        "year": "2007",
+        "country": [
+            "美国德国法国英国"
+        ],
+        "genre": [
+            "动作",
+            "悬疑",
+            "惊悚"
+        ],
+        "raw_title": "谍影重重3/TheBourneUltimatum/叛谍追击3：最后通牒(港)/神鬼认证：最后通牒(台)"
+    },
+    {
+        "id": 171,
+        "title": "心灵奇旅",
+        "rating": "8.7",
+        "director": "彼特·道格特 Pete Docter",
+        "actor": "杰米·...",
+        "year": "2020",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "奇幻",
+            "动画",
+            "音乐"
+        ],
+        "raw_title": "心灵奇旅/Soul/灵魂奇遇记(港)/灵魂急转弯(台)"
+    },
+    {
+        "id": 172,
+        "title": "背靠背，脸对脸",
+        "rating": "9.5",
+        "director": "黄建新 Jianxin Huang",
+        "actor": "牛振华 Zhenhua N...",
+        "year": "1994",
+        "country": [
+            "中国大陆中国香港"
+        ],
+        "genre": [
+            "剧情"
+        ],
+        "raw_title": "背靠背，脸对脸/背对背，脸对脸/BacktoBack,FacetoFace"
+    },
+    {
+        "id": 173,
+        "title": "绿里奇迹",
+        "rating": "8.9",
+        "director": "弗兰克·德拉邦特 Frank Darabont",
+        "actor": "汤姆·汉克斯 Tom Hanks",
+        "year": "1999",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "悬疑",
+            "犯罪",
+            "奇幻"
+        ],
+        "raw_title": "绿里奇迹/TheGreenMile/绿色奇迹(台)/绿色英里"
+    },
+    {
+        "id": 174,
+        "title": "上帝之城",
+        "rating": "9.0",
+        "director": "费尔南多·梅里尔斯 Fernando Meirelles",
+        "actor": NaN,
+        "year": "2002",
+        "country": [
+            "巴西法国"
+        ],
+        "genre": [
+            "剧情",
+            "犯罪"
+        ],
+        "raw_title": "上帝之城/CidadedeDeus/无主之城(港)/无法无天(台)"
+    },
+    {
+        "id": 175,
+        "title": "英雄本色",
+        "rating": "8.6",
+        "director": "吴宇森 John Woo",
+        "actor": "周润发 Yun-Fat Chow",
+        "year": "1986",
+        "country": [
+            "中国香港"
+        ],
+        "genre": [
+            "剧情",
+            "动作",
+            "犯罪"
+        ],
+        "raw_title": "英雄本色/ABetterTomorrow/GanglandBoss"
+    },
+    {
+        "id": 176,
+        "title": "风之谷",
+        "rating": "8.9",
+        "director": "宫崎骏 Hayao Miyazaki",
+        "actor": "岛本须美 Sumi Shimamoto",
+        "year": "1984",
+        "country": [
+            "日本"
+        ],
+        "genre": [
+            "冒险",
+            "奇幻",
+            "动画"
+        ],
+        "raw_title": "风之谷/風の谷のナウシカ/风谷少女/KazenotaninoNaushika"
+    },
+    {
+        "id": 177,
+        "title": "爱在午夜降临前",
+        "rating": "8.9",
+        "director": "理查德·林克莱特 Richard Linklater",
+        "actor": "伊桑·霍克 Ethan Hawke ...",
+        "year": "2013",
+        "country": [
+            "美国希腊"
+        ],
+        "genre": [
+            "剧情",
+            "爱情"
+        ],
+        "raw_title": "爱在午夜降临前/BeforeMidnight/情约半生(港)/爱在午夜希腊时(台)"
+    },
+    {
+        "id": 178,
+        "title": "海街日记",
+        "rating": "8.8",
+        "director": "是枝裕和 Hirokazu Koreeda",
+        "actor": "绫濑遥 Haruka Ayase",
+        "year": "2015",
+        "country": [
+            "日本"
+        ],
+        "genre": [
+            "剧情",
+            "家庭"
+        ],
+        "raw_title": "海街日记/海街diary/海街女孩日记(港)/KamakuraDiary"
+    },
+    {
+        "id": 179,
+        "title": "纵横四海",
+        "rating": "8.8",
+        "director": "吴宇森 John Woo",
+        "actor": "周润发 Yun-Fat Chow",
+        "year": "1991",
+        "country": [
+            "中国香港"
+        ],
+        "genre": [
+            "剧情",
+            "喜剧",
+            "动作",
+            "犯罪"
+        ],
+        "raw_title": "纵横四海/緃横四海/OnceaThief"
+    },
+    {
+        "id": 180,
+        "title": "疯狂的石头",
+        "rating": "8.6",
+        "director": "宁浩 Hao Ning",
+        "actor": "郭涛 Tao Guo",
+        "year": "2006",
+        "country": [
+            "中国大陆中国香港"
+        ],
+        "genre": [
+            "喜剧",
+            "犯罪"
+        ],
+        "raw_title": "疯狂的石头/CrazyStone"
+    },
+    {
+        "id": 181,
+        "title": "无间道2",
+        "rating": "8.8",
+        "director": "刘伟强",
+        "actor": "陈冠希 Edison Chen",
+        "year": "2003",
+        "country": [
+            "中国香港"
+        ],
+        "genre": [
+            "剧情",
+            "惊悚",
+            "犯罪"
+        ],
+        "raw_title": "无间道2/無間道II/无间道前传/InfernalAffairsII"
+    },
+    {
+        "id": 182,
+        "title": "卢旺达饭店",
+        "rating": "8.9",
+        "director": "特瑞·乔治 Terry George",
+        "actor": "唐·钱德尔 Don Cheadle",
+        "year": "2004",
+        "country": [
+            "英国南非意大利美国"
+        ],
+        "genre": [
+            "剧情",
+            "历史",
+            "传记",
+            "战争"
+        ],
+        "raw_title": "卢旺达饭店/HotelRwanda/卢安达饭店(台)"
+    },
+    {
+        "id": 183,
+        "title": "2001太空漫游",
+        "rating": "8.9",
+        "director": "斯坦利·库布里克 Stanley Kubrick",
+        "actor": "凯尔·杜拉 Keir Dullea",
+        "year": "1968",
+        "country": [
+            "英国美国"
+        ],
+        "genre": [
+            "科幻",
+            "惊悚",
+            "冒险"
+        ],
+        "raw_title": "2001太空漫游/2001:ASpaceOdyssey/2001：星际漫游/2001：太空奥德赛"
+    },
+    {
+        "id": 184,
+        "title": "雨中曲",
+        "rating": "9.1",
+        "director": "斯坦利·多南 Stanley Donen",
+        "actor": "吉恩·...",
+        "year": "1952",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "喜剧",
+            "爱情",
+            "歌舞"
+        ],
+        "raw_title": "雨中曲/Singin'intheRain/万花嬉春(港/台)"
+    },
+    {
+        "id": 185,
+        "title": "记忆碎片",
+        "rating": "8.7",
+        "director": "克里斯托弗·诺兰 Christopher Nolan",
+        "actor": "盖·皮尔斯 Guy Pearce /...",
+        "year": "2000",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "悬疑",
+            "惊悚",
+            "犯罪"
+        ],
+        "raw_title": "记忆碎片/Memento/凶心人(港)/记忆拼图(台)"
+    },
+    {
+        "id": 186,
+        "title": "小偷家族",
+        "rating": "8.7",
+        "director": "是枝裕和 Hirokazu Koreeda",
+        "actor": "中川雅也 Lily Franky",
+        "year": "2018",
+        "country": [
+            "日本"
+        ],
+        "genre": [
+            "剧情",
+            "犯罪",
+            "家庭"
+        ],
+        "raw_title": "小偷家族/万引き家族/Shoplifters/UneAffairedeFamille"
+    },
+    {
+        "id": 187,
+        "title": "无敌破坏王",
+        "rating": "8.7",
+        "director": "瑞奇·莫尔 Rich Moore",
+        "actor": "约翰·C·赖利 John C. Reilly",
+        "year": "2012",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "喜剧",
+            "冒险",
+            "奇幻",
+            "动画"
+        ],
+        "raw_title": "无敌破坏王/Wreck-ItRalph/破坏王拉尔夫/破坏王大冒险"
+    },
+    {
+        "id": 188,
+        "title": "岁月神偷",
+        "rating": "8.7",
+        "director": "罗启锐 Alex Law",
+        "actor": "吴君如 Sandra Ng",
+        "year": "2010",
+        "country": [
+            "中国香港中国大陆"
+        ],
+        "genre": [
+            "剧情",
+            "家庭"
+        ],
+        "raw_title": "岁月神偷/歲月神偷/1969太空漫游/EchoesOfTheRainbow"
+    },
+    {
+        "id": 189,
+        "title": "荒蛮故事",
+        "rating": "8.8",
+        "director": "达米安·斯兹弗隆 Damián Szifron",
+        "actor": "达里奥·葛兰帝内提 Darío...",
+        "year": "2014",
+        "country": [
+            "阿根廷西班牙"
+        ],
+        "genre": [
+            "剧情",
+            "喜剧",
+            "犯罪"
+        ],
+        "raw_title": "荒蛮故事/Relatossalvajes/蛮荒故事/生命中最抓狂的小事(台)"
+    },
+    {
+        "id": 190,
+        "title": "忠犬八公物语",
+        "rating": "9.2",
+        "director": "神山征二郎 Seijirô Kôyama",
+        "actor": "仲代达矢 Tatsuya Nakadai /...",
+        "year": "1987",
+        "country": [
+            "日本"
+        ],
+        "genre": [
+            "剧情"
+        ],
+        "raw_title": "忠犬八公物语/ハチ公物語/八千公物语/阿八的故事"
+    },
+    {
+        "id": 191,
+        "title": "冰川时代",
+        "rating": "8.6",
+        "director": "卡洛斯·沙尔丹哈 Carlos Saldanha",
+        "actor": "主演...",
+        "year": "2002",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "喜剧",
+            "冒险",
+            "动画"
+        ],
+        "raw_title": "冰川时代/IceAge/冰河世纪/冰原历险记"
+    },
+    {
+        "id": 192,
+        "title": "牯岭街少年杀人事件",
+        "rating": "8.9",
+        "director": "杨德昌 Edward Yang",
+        "actor": "张震 Chen Chang",
+        "year": "1991",
+        "country": [
+            "中国台湾"
+        ],
+        "genre": [
+            "剧情",
+            "犯罪"
+        ],
+        "raw_title": "牯岭街少年杀人事件/牯嶺街少年殺人事件/ABrighterSummerDay"
+    },
+    {
+        "id": 193,
+        "title": "恐怖游轮",
+        "rating": "8.5",
+        "director": "克里斯托弗·史密斯 Christopher Smith",
+        "actor": "梅利莎·乔治 Melissa ...",
+        "year": "2009",
+        "country": [
+            "英国澳大利亚"
+        ],
+        "genre": [
+            "剧情",
+            "悬疑",
+            "惊悚"
+        ],
+        "raw_title": "恐怖游轮/Triangle/汪洋血迷宮(台)/轮回三角"
+    },
+    {
+        "id": 194,
+        "title": "爆裂鼓手",
+        "rating": "8.7",
+        "director": "达米恩·查泽雷 Damien Chazelle",
+        "actor": "迈尔斯·特勒 Miles Teller /...",
+        "year": "2014",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "音乐"
+        ],
+        "raw_title": "爆裂鼓手/Whiplash/鼓动真我(港)/进击的鼓手(台)"
+    },
+    {
+        "id": 195,
+        "title": "东京教父",
+        "rating": "9.0",
+        "director": "今敏 Satoshi Kon",
+        "actor": "江守彻 Toru Emori",
+        "year": "2003",
+        "country": [
+            "日本"
+        ],
+        "genre": [
+            "剧情",
+            "喜剧",
+            "动画"
+        ],
+        "raw_title": "东京教父/東京ゴッドファーザーズ/TokyoGodfathers"
+    },
+    {
+        "id": 196,
+        "title": "魔女宅急便",
+        "rating": "8.7",
+        "director": "宫崎骏 Hayao Miyazaki",
+        "actor": "高山南 Minami Takayama",
+        "year": "1989",
+        "country": [
+            "日本"
+        ],
+        "genre": [
+            "冒险",
+            "奇幻",
+            "动画"
+        ],
+        "raw_title": "魔女宅急便/魔女の宅急便/魔女琪琪(台)/小魔女限时专送"
+    },
+    {
+        "id": 197,
+        "title": "大佛普拉斯",
+        "rating": "8.7",
+        "director": "黄信尧 Hsin-yao Huang",
+        "actor": "庄益增 Yizeng Zhuang",
+        "year": "2017",
+        "country": [
+            "中国台湾"
+        ],
+        "genre": [
+            "剧情",
+            "喜剧"
+        ],
+        "raw_title": "大佛普拉斯/TheGreatBuddha+"
+    },
+    {
+        "id": 198,
+        "title": "遗愿清单",
+        "rating": "8.7",
+        "director": "罗伯·莱纳 Rob Reiner",
+        "actor": "杰克·尼科尔森 Jack Nicholson",
+        "year": "2007",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "喜剧",
+            "冒险"
+        ],
+        "raw_title": "遗愿清单/TheBucketList/玩转身前事(港)/一路玩到挂(台)"
+    },
+    {
+        "id": 199,
+        "title": "贫民窟的百万富翁",
+        "rating": "8.6",
+        "director": "丹尼·鲍尔 Danny Boyle",
+        "actor": "戴夫...",
+        "year": "2008",
+        "country": [
+            "英国"
+        ],
+        "genre": [
+            "剧情",
+            "爱情"
+        ],
+        "raw_title": "贫民窟的百万富翁/SlumdogMillionaire/一百万零一夜(港)/贫民百万富翁(台)"
+    },
+    {
+        "id": 200,
+        "title": "末路狂花",
+        "rating": "8.9",
+        "director": "雷德利·斯科特 Ridley Scott",
+        "actor": "吉娜·戴维斯 Geena Davis",
+        "year": "1991",
+        "country": [
+            "美国英国法国"
+        ],
+        "genre": [
+            "剧情",
+            "惊悚",
+            "犯罪"
+        ],
+        "raw_title": "末路狂花/Thelma&Louise/塞尔玛与路易丝/末路狂花"
+    },
+    {
+        "id": 201,
+        "title": "东邪西毒",
+        "rating": "8.6",
+        "director": "王家卫 Kar Wai Wong",
+        "actor": "张国荣 Leslie Cheung",
+        "year": "1994",
+        "country": [
+            "中国香港中国台湾"
+        ],
+        "genre": [
+            "剧情",
+            "动作",
+            "爱情",
+            "武侠",
+            "古装"
+        ],
+        "raw_title": "东邪西毒/東邪西毒/AshesofTime"
+    },
+    {
+        "id": 202,
+        "title": "你看起来好像很好吃",
+        "rating": "8.9",
+        "director": "藤森雅也 Masaya Fujimori",
+        "actor": "山口胜平 Kappei Yamaguchi",
+        "year": "2010",
+        "country": [
+            "日本"
+        ],
+        "genre": [
+            "剧情",
+            "动画",
+            "儿童"
+        ],
+        "raw_title": "你看起来好像很好吃/おまえうまそうだな/你看起来很好吃(台)/你看上去好像很好吃"
+    },
+    {
+        "id": 203,
+        "title": "可可西里",
+        "rating": "8.9",
+        "director": "陆川 Chuan Lu",
+        "actor": "多布杰 Duobujie",
+        "year": "2004",
+        "country": [
+            "中国大陆中国香港"
+        ],
+        "genre": [
+            "剧情",
+            "犯罪"
+        ],
+        "raw_title": "可可西里/Kekexili:MountainPatrol"
+    },
+    {
+        "id": 204,
+        "title": "源代码",
+        "rating": "8.5",
+        "director": "邓肯·琼斯 Duncan Jones",
+        "actor": "杰克·吉伦哈尔 Jake Gyllenhaal",
+        "year": "2011",
+        "country": [
+            "美国加拿大"
+        ],
+        "genre": [
+            "科幻",
+            "悬疑",
+            "惊悚"
+        ],
+        "raw_title": "源代码/SourceCode/启动原始码(台)/危机解密(港)"
+    },
+    {
+        "id": 205,
+        "title": "疯狂的麦克斯4：狂暴之路",
+        "rating": "8.7",
+        "director": "乔治·米勒 George Miller",
+        "actor": "汤姆·哈迪 Tom Hardy",
+        "year": "2015",
+        "country": [
+            "澳大利亚美国"
+        ],
+        "genre": [
+            "动作",
+            "科幻",
+            "冒险"
+        ],
+        "raw_title": "疯狂的麦克斯4：狂暴之路/MadMax:FuryRoad/末日先锋：战甲飞车(港)/疯狂麦斯：愤怒道(台)"
+    },
+    {
+        "id": 206,
+        "title": "城市之光",
+        "rating": "9.3",
+        "director": "Charles Chaplin",
+        "actor": "查理·卓别林 Charles Chaplin",
+        "year": "1931",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "喜剧",
+            "爱情"
+        ],
+        "raw_title": "城市之光/CityLights/CityLights:AComedyRomanceinPantomime/LichterderGroßstadt"
+    },
+    {
+        "id": 207,
+        "title": "海边的曼彻斯特",
+        "rating": "8.6",
+        "director": "肯尼斯·罗纳根 Kenneth Lonergan",
+        "actor": "卡西·阿弗莱克 Casey Affle...",
+        "year": "2016",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "家庭"
+        ],
+        "raw_title": "海边的曼彻斯特/ManchesterbytheSea/情系海边之城(港)"
+    },
+    {
+        "id": 208,
+        "title": "黑天鹅",
+        "rating": "8.6",
+        "director": "达伦·阿罗诺夫斯基 Darren Aronofsky",
+        "actor": "娜塔莉·波特曼 Natalie...",
+        "year": "2010",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "惊悚"
+        ],
+        "raw_title": "黑天鹅/BlackSwan/夺命黑天鹅/霸王别鹅(豆友译名)"
+    },
+    {
+        "id": 209,
+        "title": "波西米亚狂想曲",
+        "rating": "8.6",
+        "director": "布莱恩·辛格 Bryan Singer",
+        "actor": "拉米·马雷克 Rami Malek",
+        "year": "2018",
+        "country": [
+            "英国美国"
+        ],
+        "genre": [
+            "剧情",
+            "传记",
+            "音乐"
+        ],
+        "raw_title": "波西米亚狂想曲/BohemianRhapsody/波希米亚狂想曲：摇滚传说(港)/波希米亚狂想曲(台)"
+    },
+    {
+        "id": 210,
+        "title": "真爱至上",
+        "rating": "8.5",
+        "director": "理查德·柯蒂斯 Richard Curtis",
+        "actor": "休·格兰特 Hugh Grant",
+        "year": "2003",
+        "country": [
+            "英国美国法国"
+        ],
+        "genre": [
+            "剧情",
+            "喜剧",
+            "爱情"
+        ],
+        "raw_title": "真爱至上/LoveActually/真的恋爱了(港)/爱是您，爱是我(台)"
+    },
+    {
+        "id": 211,
+        "title": "高山下的花环",
+        "rating": "9.5",
+        "director": "谢晋 Jin Xie",
+        "actor": "吕晓禾 Xiaohe Lü",
+        "year": "1984(中国大陆)/1985",
+        "country": [
+            "中国大陆"
+        ],
+        "genre": [
+            "剧情",
+            "战争"
+        ],
+        "raw_title": "高山下的花环/卫国军魂(港)/WreathsattheFootoftheMountain"
+    },
+    {
+        "id": 212,
+        "title": "芙蓉镇",
+        "rating": "9.3",
+        "director": "谢晋 Jin Xie",
+        "actor": "刘晓庆 Xiaoqing Liu",
+        "year": "1987",
+        "country": [
+            "中国大陆"
+        ],
+        "genre": [
+            "剧情",
+            "爱情"
+        ],
+        "raw_title": "芙蓉镇/HibiscusTown"
+    },
+    {
+        "id": 213,
+        "title": "爱乐之城",
+        "rating": "8.4",
+        "director": "达米恩·查泽雷 Damien Chazelle",
+        "actor": "瑞恩·高斯林 Ryan Gosling /...",
+        "year": "2016",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "爱情",
+            "歌舞"
+        ],
+        "raw_title": "爱乐之城/LaLaLand/星声梦里人(港)/乐来越爱你(台)"
+    },
+    {
+        "id": 214,
+        "title": "青蛇",
+        "rating": "8.6",
+        "director": "徐克 Hark Tsui",
+        "actor": "张曼玉 Maggie Cheung",
+        "year": "1993",
+        "country": [
+            "中国香港中国大陆"
+        ],
+        "genre": [
+            "剧情",
+            "爱情",
+            "奇幻",
+            "古装"
+        ],
+        "raw_title": "青蛇/GreenSnake"
+    },
+    {
+        "id": 215,
+        "title": "雨人",
+        "rating": "8.7",
+        "director": "巴瑞·莱文森 Barry Levinson",
+        "actor": "达斯汀·霍夫曼 Dustin Hoffman ...",
+        "year": "1988",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情"
+        ],
+        "raw_title": "雨人/RainMan/手足情未了(港)/手足情深"
+    },
+    {
+        "id": 216,
+        "title": "初恋这件小事",
+        "rating": "8.5",
+        "director": "普特鹏·普罗萨卡·那·萨克那卡林 Puttipong Promsaka Na Sakolnakorn",
+        "actor": NaN,
+        "year": "2010",
+        "country": [
+            "泰国"
+        ],
+        "genre": [
+            "剧情",
+            "喜剧",
+            "爱情"
+        ],
+        "raw_title": "初恋这件小事/สิ่งเล็กเล็กที่เรียกว่า...รัก/初恋那件小事(港)/暗恋那点小事"
+    },
+    {
+        "id": 217,
+        "title": "终结者2：审判日",
+        "rating": "8.8",
+        "director": "詹姆斯·卡梅隆 James Cameron",
+        "actor": "阿诺·施瓦辛格 Arnold Schwarz...",
+        "year": "1991",
+        "country": [
+            "美国法国"
+        ],
+        "genre": [
+            "动作",
+            "科幻"
+        ],
+        "raw_title": "终结者2：审判日/Terminator2:JudgmentDay/未来战士2(港)/魔鬼终结者2(台)"
+    },
+    {
+        "id": 218,
+        "title": "人工智能",
+        "rating": "8.7",
+        "director": "史蒂文·斯皮尔伯格 Steven Spielberg",
+        "actor": "海利·乔·奥斯蒙 Haley...",
+        "year": "2001",
+        "country": [
+            "美国英国"
+        ],
+        "genre": [
+            "剧情",
+            "科幻"
+        ],
+        "raw_title": "人工智能/A.I.ArtificialIntelligence/AI人工智慧"
+    },
+    {
+        "id": 219,
+        "title": "虎口脱险",
+        "rating": "8.9",
+        "director": "杰拉尔·乌里 Gérard Oury",
+        "actor": "路易·德·菲耐斯 Louis de Funès...",
+        "year": "1966",
+        "country": [
+            "法国英国"
+        ],
+        "genre": [
+            "喜剧",
+            "战争"
+        ],
+        "raw_title": "虎口脱险/Lagrandevadrouille/横冲直撞出重围(港)/大進擊(台)"
+    },
+    {
+        "id": 220,
+        "title": "恋恋笔记本",
+        "rating": "8.5",
+        "director": "尼克·卡索维茨 Nick Cassavetes",
+        "actor": "瑞恩·高斯林 Ryan Gosling /...",
+        "year": "2004",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "爱情"
+        ],
+        "raw_title": "恋恋笔记本/TheNotebook/忘了·忘不了(港)/手札情缘(台)"
+    },
+    {
+        "id": 221,
+        "title": "花束般的恋爱",
+        "rating": "8.6",
+        "director": "土井裕泰 Nobuhiro Doi",
+        "actor": "菅田将晖 Masaki Suda",
+        "year": "2021",
+        "country": [
+            "日本"
+        ],
+        "genre": [
+            "剧情",
+            "爱情"
+        ],
+        "raw_title": "花束般的恋爱/花束みたいな恋をした/她和他的恋爱花期(港)/爱如花束恋恋不忘"
+    },
+    {
+        "id": 222,
+        "title": "无耻混蛋",
+        "rating": "8.7",
+        "director": "昆汀·塔伦蒂诺 Quentin Tarantino",
+        "actor": "布拉德·皮特 Brad Pitt",
+        "year": "2009",
+        "country": [
+            "德国美国"
+        ],
+        "genre": [
+            "剧情",
+            "犯罪"
+        ],
+        "raw_title": "无耻混蛋/InglouriousBasterds/希魔撞正杀人狂(港)/恶棍特工(台)"
+    },
+    {
+        "id": 223,
+        "title": "新龙门客栈",
+        "rating": "8.7",
+        "director": "李惠民 Raymond Lee",
+        "actor": "张曼玉 Maggie Cheung",
+        "year": "1992",
+        "country": [
+            "中国香港中国大陆"
+        ],
+        "genre": [
+            "动作",
+            "爱情",
+            "武侠",
+            "古装"
+        ],
+        "raw_title": "新龙门客栈/新龍門客棧/NewDragonGateInn"
+    },
+    {
+        "id": 224,
+        "title": "罗生门",
+        "rating": "8.8",
+        "director": "黑泽明 Akira Kurosawa",
+        "actor": "三船敏郎 Toshirô Mifune",
+        "year": "1950",
+        "country": [
+            "日本"
+        ],
+        "genre": [
+            "剧情",
+            "悬疑",
+            "犯罪"
+        ],
+        "raw_title": "罗生门/羅生門/Rashomon"
+    },
+    {
+        "id": 225,
+        "title": "崖上的波妞",
+        "rating": "8.6",
+        "director": "宫崎骏 Hayao Miyazaki",
+        "actor": "奈良柚莉爱 Yuria Nara",
+        "year": "2008",
+        "country": [
+            "日本"
+        ],
+        "genre": [
+            "冒险",
+            "奇幻",
+            "动画"
+        ],
+        "raw_title": "崖上的波妞/崖の上のポニョ/悬崖上的金鱼姬/悬崖上的金鱼公主"
+    },
+    {
+        "id": 226,
+        "title": "千钧一发",
+        "rating": "8.8",
+        "director": "安德鲁·尼科尔 Andrew Niccol",
+        "actor": "伊桑·霍克 Ethan Hawke",
+        "year": "1997",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "科幻",
+            "惊悚"
+        ],
+        "raw_title": "千钧一发/Gattaca/变种异煞(港)/自然人"
+    },
+    {
+        "id": 227,
+        "title": "哈利·波特与死亡圣器(上)",
+        "rating": "8.6",
+        "director": "大卫·叶茨 David Yates",
+        "actor": "丹尼尔·雷德克里夫 Daniel Radcliffe...",
+        "year": "2010",
+        "country": [
+            "英国美国"
+        ],
+        "genre": [
+            "冒险",
+            "奇幻"
+        ],
+        "raw_title": "哈利·波特与死亡圣器(上)/HarryPotterandtheDeathlyHallows:Part1/哈利波特7：死神的圣物1(港/台)"
+    },
+    {
+        "id": 228,
+        "title": "彗星来的那一夜",
+        "rating": "8.6",
+        "director": "詹姆斯·沃德·布柯特 James Ward Byrkit",
+        "actor": "艾米丽·芭尔多尼 Em...",
+        "year": "2013",
+        "country": [
+            "美国英国"
+        ],
+        "genre": [
+            "科幻",
+            "悬疑",
+            "惊悚"
+        ],
+        "raw_title": "彗星来的那一夜/Coherence/相干性/相干效应"
+    },
+    {
+        "id": 229,
+        "title": "白日梦想家",
+        "rating": "8.6",
+        "director": "本·斯蒂勒 Ben Stiller",
+        "actor": "本·斯蒂勒 Ben Stiller",
+        "year": "2013",
+        "country": [
+            "美国英国"
+        ],
+        "genre": [
+            "剧情",
+            "喜剧",
+            "冒险"
+        ],
+        "raw_title": "白日梦想家/TheSecretLifeofWalterMitty/发梦王大历险(港)/白日梦冒险王(台)"
+    },
+    {
+        "id": 230,
+        "title": "萤火虫之墓",
+        "rating": "8.7",
+        "director": "高畑勋 Isao Takahata",
+        "actor": "辰己努",
+        "year": "1988",
+        "country": [
+            "日本"
+        ],
+        "genre": [
+            "剧情",
+            "动画",
+            "战争"
+        ],
+        "raw_title": "萤火虫之墓/火垂るの墓/再见萤火虫(港)/萤火挽歌"
+    },
+    {
+        "id": 231,
+        "title": "黑客帝国2：重装上阵",
+        "rating": "8.7",
+        "director": "拉娜·沃卓斯基 Lana Wachowski",
+        "actor": "...",
+        "year": "2003",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "动作",
+            "科幻"
+        ],
+        "raw_title": "黑客帝国2：重装上阵/TheMatrixReloaded/22世纪杀人网络2：决战未来(港)/骇客任务：重装上阵(台)"
+    },
+    {
+        "id": 232,
+        "title": "奇迹男孩",
+        "rating": "8.6",
+        "director": "斯蒂芬·卓博斯基 Stephen Chbosky",
+        "actor": "雅各布·特伦布莱 Jacob Tr...",
+        "year": "2017",
+        "country": [
+            "美国中国香港"
+        ],
+        "genre": [
+            "剧情",
+            "儿童",
+            "家庭"
+        ],
+        "raw_title": "奇迹男孩/Wonder/奇迹"
+    },
+    {
+        "id": 233,
+        "title": "火星救援",
+        "rating": "8.5",
+        "director": "雷德利·斯科特 Ridley Scott",
+        "actor": "马特·达蒙 Matt Damon",
+        "year": "2015",
+        "country": [
+            "英国美国匈牙利约旦"
+        ],
+        "genre": [
+            "剧情",
+            "科幻",
+            "冒险"
+        ],
+        "raw_title": "火星救援/TheMartian/火星任务(港)/绝地救援(台)"
+    },
+    {
+        "id": 234,
+        "title": "二十二",
+        "rating": "8.7",
+        "director": "郭柯 Ke Guo",
+        "actor": "",
+        "year": "2015",
+        "country": [
+            "中国大陆"
+        ],
+        "genre": [
+            "纪录片"
+        ],
+        "raw_title": "二十二/TwentyTwo/22"
+    },
+    {
+        "id": 235,
+        "title": "大红灯笼高高挂",
+        "rating": "8.8",
+        "director": "张艺谋 Yimou Zhang",
+        "actor": "巩俐 Li Gong",
+        "year": "1991",
+        "country": [
+            "中国大陆中国香港中国台湾"
+        ],
+        "genre": [
+            "剧情"
+        ],
+        "raw_title": "大红灯笼高高挂/RaiseTheRedLantern/Épousesetconcubines"
+    },
+    {
+        "id": 236,
+        "title": "战争之王",
+        "rating": "8.7",
+        "director": "安德鲁·尼科尔 Andrew Niccol",
+        "actor": "尼古拉斯·凯奇 Nicolas Cage /...",
+        "year": "2005",
+        "country": [
+            "美国德国"
+        ],
+        "genre": [
+            "剧情",
+            "犯罪"
+        ],
+        "raw_title": "战争之王/LordofWar/军火之王(台/港)"
+    },
+    {
+        "id": 237,
+        "title": "哈利·波特与凤凰社",
+        "rating": "8.5",
+        "director": "大卫·叶茨 David Yates",
+        "actor": "丹尼尔·雷德克里夫 Daniel Radcliffe...",
+        "year": "2007",
+        "country": [
+            "英国美国"
+        ],
+        "genre": [
+            "冒险",
+            "奇幻"
+        ],
+        "raw_title": "哈利·波特与凤凰社/HarryPotterandtheOrderofthePhoenix/哈利波特5：凤凰会的密令(港/台)"
+    },
+    {
+        "id": 238,
+        "title": "血钻",
+        "rating": "8.7",
+        "director": "爱德华·兹威克 Edward Zwick",
+        "actor": "莱昂纳多·迪卡普里奥 Leonardo ...",
+        "year": "2006",
+        "country": [
+            "美国德国英国"
+        ],
+        "genre": [
+            "剧情",
+            "惊悚",
+            "冒险"
+        ],
+        "raw_title": "血钻/BloodDiamond/血钻石(台)/血腥钻石"
+    },
+    {
+        "id": 239,
+        "title": "千年女优",
+        "rating": "8.8",
+        "director": "今敏 Satoshi Kon",
+        "actor": "庄司美代子 Miyoko Shôji",
+        "year": "2001",
+        "country": [
+            "日本"
+        ],
+        "genre": [
+            "剧情",
+            "爱情",
+            "动画"
+        ],
+        "raw_title": "千年女优/千年女優/MillenniumActress"
+    },
+    {
+        "id": 240,
+        "title": "步履不停",
+        "rating": "8.8",
+        "director": "是枝裕和 Hirokazu Koreeda",
+        "actor": "阿部宽 Hiroshi Abe",
+        "year": "2008",
+        "country": [
+            "日本"
+        ],
+        "genre": [
+            "剧情",
+            "家庭"
+        ],
+        "raw_title": "步履不停/歩いても歩いても/横山家之味(港/台)"
+    },
+    {
+        "id": 241,
+        "title": "谍影重重2",
+        "rating": "8.7",
+        "director": "保罗·格林格拉斯 Paul Greengrass",
+        "actor": "马特·达蒙 Matt Damon",
+        "year": "2004",
+        "country": [
+            "美国德国"
+        ],
+        "genre": [
+            "动作",
+            "悬疑",
+            "惊悚"
+        ],
+        "raw_title": "谍影重重2/TheBourneSupremacy/叛谍追击2：机密圈套(港)/神鬼认证：神鬼疑云(台)"
+    },
+    {
+        "id": 242,
+        "title": "房间",
+        "rating": "8.8",
+        "director": "伦尼·阿伯拉罕森 Lenny Abrahamson",
+        "actor": "布丽·拉尔森 Brie Larson...",
+        "year": "2015",
+        "country": [
+            "爱尔兰加拿大英国美国"
+        ],
+        "genre": [
+            "剧情",
+            "家庭"
+        ],
+        "raw_title": "房间/Room/不存在的房间(台)/抖室(港)"
+    },
+    {
+        "id": 243,
+        "title": "魂断蓝桥",
+        "rating": "8.8",
+        "director": "茂文·勒鲁瓦 Mervyn LeRoy",
+        "actor": "费雯·丽 Vivien Leigh",
+        "year": "1940",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "爱情",
+            "战争"
+        ],
+        "raw_title": "魂断蓝桥/WaterlooBridge/滑铁卢桥/断桥残梦"
+    },
+    {
+        "id": 244,
+        "title": "蜘蛛侠：平行宇宙",
+        "rating": "8.6",
+        "director": "鲍勃·佩尔西凯蒂 Bob Persichetti",
+        "actor": "主...",
+        "year": "2018",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "动作",
+            "科幻",
+            "冒险",
+            "动画"
+        ],
+        "raw_title": "蜘蛛侠：平行宇宙/Spider-Man:IntotheSpider-Verse/蜘蛛侠：新纪元/蜘蛛人：新宇宙(台)"
+    },
+    {
+        "id": 245,
+        "title": "弱点",
+        "rating": "8.7",
+        "director": "约翰·李·汉考克 John Lee Hancock",
+        "actor": "桑德拉·布洛克 Sandra Bu...",
+        "year": "2009",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "运动",
+            "传记",
+            "家庭"
+        ],
+        "raw_title": "弱点/TheBlindSide/守护有心人(港)/攻其不备(台)"
+    },
+    {
+        "id": 246,
+        "title": "谍影重重",
+        "rating": "8.6",
+        "director": "道格·里曼 Doug Liman",
+        "actor": "马特·达蒙 Matt Damon",
+        "year": "2002",
+        "country": [
+            "美国德国捷克"
+        ],
+        "genre": [
+            "动作",
+            "悬疑",
+            "惊悚"
+        ],
+        "raw_title": "谍影重重/TheBourneIdentity/叛谍追击(港)/神鬼认证(台)"
+    },
+    {
+        "id": 247,
+        "title": "朗读者",
+        "rating": "8.6",
+        "director": "史蒂芬·戴德利 Stephen Daldry",
+        "actor": "凯特·温丝莱特 Kate Winslet ...",
+        "year": "2008",
+        "country": [
+            "美国德国"
+        ],
+        "genre": [
+            "剧情",
+            "爱情"
+        ],
+        "raw_title": "朗读者/TheReader/为爱朗读(台)/读爱(港)"
+    },
+    {
+        "id": 248,
+        "title": "阿飞正传",
+        "rating": "8.5",
+        "director": "王家卫 Kar Wai Wong",
+        "actor": "张国荣 Leslie Cheung",
+        "year": "1990",
+        "country": [
+            "中国香港"
+        ],
+        "genre": [
+            "剧情",
+            "爱情",
+            "犯罪"
+        ],
+        "raw_title": "阿飞正传/阿飛正傳/DaysofBeingWild"
+    },
+    {
+        "id": 249,
+        "title": "隐藏人物",
+        "rating": "8.9",
+        "director": "特奥多尔·梅尔菲 Theodore Melfi",
+        "actor": "塔拉吉·P·汉森 Taraji P. ...",
+        "year": "2016",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "剧情",
+            "历史",
+            "传记"
+        ],
+        "raw_title": "隐藏人物/HiddenFigures/NASA无名英雌(港)/关键少数(台)"
+    },
+    {
+        "id": 250,
+        "title": "冰雪奇缘",
+        "rating": "8.5",
+        "director": "克里斯·巴克 Chris Buck",
+        "actor": "克里斯汀...",
+        "year": "2013",
+        "country": [
+            "美国"
+        ],
+        "genre": [
+            "喜剧",
+            "奇幻",
+            "动画",
+            "歌舞"
+        ],
+        "raw_title": "冰雪奇缘/Frozen/魔雪奇缘(港)/冰雪大冒险"
+    }
+]
